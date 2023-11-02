@@ -1,8 +1,45 @@
 baseURL = 'https://jsulz.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'jsulz'
 theme = 'beautifulhugo'
 
 [Params]
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Fueled by coffee, code, and spreadsheets"
   mainSections = ["post","posts"]
+  #logo = "img/avatar-icon.png" # Expecting square dimensions
+  #favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  #commit = false
+  rss = true
+  #comments = true
+  #readingTime = true
+  #wordCount = true
+  useHLJS = true
+  #socialShare = true
+  #delayDisqus = true
+  #showRelatedPosts = true
+  favicon = "img/favicon.ico"
+
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Jared Sulzdorf"
+  website = "jsulz.com"
+  email = "j.sulzdorf@gmail.com"
+  github = "jsulz"
+  linkedin = "jaredsulzdorf"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
