@@ -1,0 +1,8 @@
+baseURL = 'https://jsulz.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'beautifulhugo'
+
+[Params]
+  subtitle = "Build a beautiful and simple website in minutes"
+  mainSections = ["post","posts"]

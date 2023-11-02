@@ -1,0 +1,32 @@
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+[Oo]bj/ # FlashDevelop obj
+[Bb]in/ # FlashDevelop bin
+
+# Other files and folders
+.settings/
+
+# lock
+*.lock
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Hugo
+public/
+
+# Backup Files
+*.markdown~
+*.md~
+
+# Build directories
+public
+dist
+
+# Mac File System File...utterly useless to anyone but me.
+.DS_Store
