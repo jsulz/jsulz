@@ -19,27 +19,23 @@ theme = 'beautifulhugo'
   #delayDisqus = true
   #showRelatedPosts = true
   favicon = "img/favicon.ico"
-
+  since = 2016
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Jared Sulzdorf"
-  website = "jsulz.com"
+  website = "/"
   email = "j.sulzdorf@gmail.com"
   github = "jsulz"
   linkedin = "jaredsulzdorf"
 
-[[menu.main]]
-    name = "Home"
-    url = ""
-    weight = 1
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
