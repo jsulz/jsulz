@@ -1,6 +1,6 @@
 ---
 title: Over Halfway Through Oregon State’s Post-Bacc Computer Science Program
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-01-08T20:39:16+00:00
 url: /2019/01/08/over-halfway-through-oregon-states-post-bacc-computer-science-program/

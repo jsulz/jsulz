@@ -1,6 +1,6 @@
 ---
 title: Nothing on the Web is Easy
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-02-29T17:04:32+00:00
 url: /2016/02/29/nothing-web-easy/

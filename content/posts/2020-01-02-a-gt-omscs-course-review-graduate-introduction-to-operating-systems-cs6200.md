@@ -1,6 +1,6 @@
 ---
 title: A GT OMSCS Course Review – Graduate Introduction to Operating Systems (CS6200)
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-01-03T06:34:02+00:00
 url: /2020/01/02/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/

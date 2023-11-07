@@ -1,6 +1,6 @@
 ---
 title: Not Everything Is About Computers – Sometimes It’s About Bread
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-03-19T17:46:34+00:00
 url: /2020/03/19/not-everything-is-about-computers-sometimes-its-about-bread/

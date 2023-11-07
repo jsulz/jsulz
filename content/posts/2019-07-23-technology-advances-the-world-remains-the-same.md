@@ -1,6 +1,6 @@
 ---
 title: Technology Advances; the World Remains the Same
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-07-23T19:24:59+00:00
 url: /2019/07/23/technology-advances-the-world-remains-the-same/

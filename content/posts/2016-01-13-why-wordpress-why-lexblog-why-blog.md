@@ -1,6 +1,6 @@
 ---
 title: Why Blog? Why WordPress? Why LexBlog?
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-01-13T14:22:17+00:00
 url: /2016/01/13/why-wordpress-why-lexblog-why-blog/

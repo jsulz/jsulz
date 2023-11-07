@@ -1,6 +1,6 @@
 ---
 title: Overcoming the Trough of Sorrow
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-04-15T15:30:28+00:00
 url: /2019/04/15/overcoming-the-trough-of-sorrow/

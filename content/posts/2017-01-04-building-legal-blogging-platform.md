@@ -1,6 +1,6 @@
 ---
 title: Building a Legal Blogging Platform
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2017-01-05T01:22:19+00:00
 url: /2017/01/04/building-legal-blogging-platform/

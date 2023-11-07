@@ -1,6 +1,6 @@
 ---
 title: oEmbeds and WordPress
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-01-29T03:35:14+00:00
 url: /2016/01/28/oembeds-and-wordpress/

@@ -1,6 +1,6 @@
 ---
 title: Processor Pipelines and the Foundation of Computing Systems
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-02-20T18:01:19+00:00
 url: /2020/02/20/processor-pipelines-and-the-foundation-of-computing-systems/

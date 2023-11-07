@@ -1,6 +1,6 @@
 ---
 title: A Full-Time Student
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-12-18T22:13:31+00:00
 url: /2019/12/18/a-full-time-student/

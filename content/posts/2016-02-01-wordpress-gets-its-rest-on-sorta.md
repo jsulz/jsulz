@@ -1,6 +1,6 @@
 ---
 title: WordPress GETS Its REST On…. Sorta
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-02-02T00:22:55+00:00
 url: /2016/02/01/wordpress-gets-its-rest-on-sorta/

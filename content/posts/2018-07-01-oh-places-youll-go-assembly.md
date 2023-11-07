@@ -1,6 +1,6 @@
 ---
 title: Oh The Places You’ll Go! …… with Assembly
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-07-01T17:28:54+00:00
 url: /2018/07/01/oh-places-youll-go-assembly/

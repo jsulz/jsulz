@@ -1,6 +1,6 @@
 ---
 title: A Short Story About Dynamic Programming
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-10-30T20:41:01+00:00
 url: /2018/10/30/a-short-story-about-dynamic-programming/

@@ -1,6 +1,6 @@
 ---
 title: A GT OMSCS Course Review – Advanced Operating Systems (CS6210)
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-01-03T19:40:46+00:00
 url: /2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/

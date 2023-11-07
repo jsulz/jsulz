@@ -1,6 +1,6 @@
 ---
 title: Investigating New Options for Search on LexBlog.com
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-09-25T19:25:27+00:00
 url: /2018/09/25/investigating-new-options-search-lexblog-com/

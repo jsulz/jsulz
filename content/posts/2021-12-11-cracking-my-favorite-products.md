@@ -1,6 +1,6 @@
 ---
 title: Cracking My Favorite Products
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2021-12-12T02:01:36+00:00
 url: /2021/12/11/cracking-my-favorite-products/

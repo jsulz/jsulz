@@ -1,6 +1,6 @@
 ---
 title: Selenium, Python, and Managing Hundreds of Blogs
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-02-17T04:17:53+00:00
 url: /2016/02/16/selenium-python-managing-hundreds-blogs/

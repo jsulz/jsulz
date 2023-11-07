@@ -1,6 +1,6 @@
 ---
 title: 'A GT OMSCS Course Review – Robotics: AI Techniques (CS7638)'
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-05-05T05:23:56+00:00
 url: /2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/

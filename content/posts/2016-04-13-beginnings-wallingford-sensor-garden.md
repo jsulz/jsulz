@@ -1,6 +1,6 @@
 ---
 title: The Beginnings of A Wallingford Sensor Garden
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-04-14T03:32:18+00:00
 url: /2016/04/13/beginnings-wallingford-sensor-garden/

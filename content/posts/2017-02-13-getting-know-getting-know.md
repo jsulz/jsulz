@@ -1,6 +1,6 @@
 ---
 title: Getting To Know You, Getting to Know All About You
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2017-02-13T22:28:36+00:00
 url: /2017/02/13/getting-know-getting-know/

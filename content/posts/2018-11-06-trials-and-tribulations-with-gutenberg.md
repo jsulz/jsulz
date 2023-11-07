@@ -1,6 +1,6 @@
 ---
 title: Trials and Tribulations with Gutenberg
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-11-06T20:04:18+00:00
 url: /2018/11/06/trials-and-tribulations-with-gutenberg/

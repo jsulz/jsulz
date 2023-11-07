@@ -1,6 +1,6 @@
 ---
 title: Everything In Its Right Place – A Primer on Hardware Support for High Performance Computer Architecture
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-02-19T18:09:44+00:00
 url: /2020/02/19/everything-in-its-right-place-a-primer-on-hardware-support-for-high-performance-computer-architecture/

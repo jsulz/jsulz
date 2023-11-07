@@ -1,6 +1,6 @@
 ---
 title: The Changing Winds of Journalism
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-01-29T20:56:23+00:00
 url: /2019/01/29/the-changing-winds-of-journalism/

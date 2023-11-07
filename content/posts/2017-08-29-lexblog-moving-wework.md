@@ -1,6 +1,6 @@
 ---
 title: LexBlog is Moving to WeWork
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2017-08-29T16:20:03+00:00
 url: /2017/08/29/lexblog-moving-wework/

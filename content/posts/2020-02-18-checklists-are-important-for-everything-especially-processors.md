@@ -1,6 +1,6 @@
 ---
 title: Checklists Are Important for Everything – Especially Processors
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-02-19T03:45:38+00:00
 url: /2020/02/18/checklists-are-important-for-everything-especially-processors/

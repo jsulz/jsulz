@@ -1,6 +1,6 @@
 ---
 title: Give Me A Language That Doesn’t Change – A Brief History of C
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-03-19T19:18:43+00:00
 url: /2019/03/19/a-brief-history-of-c/

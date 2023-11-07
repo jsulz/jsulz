@@ -1,6 +1,6 @@
 ---
 title: Make Technology for Humans
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-01-12T20:00:26+00:00
 url: /2018/01/12/make-technology-humans/

@@ -1,6 +1,6 @@
 ---
 title: The Business of Bits
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-04-23T17:01:08+00:00
 url: /2020/04/23/the-business-of-bits/

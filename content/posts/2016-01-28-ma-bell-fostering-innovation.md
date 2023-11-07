@@ -1,6 +1,6 @@
 ---
 title: Ma Bell and Fostering Innovation
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-01-28T09:03:00+00:00
 url: /2016/01/28/ma-bell-fostering-innovation/

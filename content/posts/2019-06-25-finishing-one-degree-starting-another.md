@@ -1,6 +1,6 @@
 ---
 title: Finishing One Degree; Starting Another
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-06-25T19:46:06+00:00
 url: /2019/06/25/finishing-one-degree-starting-another/

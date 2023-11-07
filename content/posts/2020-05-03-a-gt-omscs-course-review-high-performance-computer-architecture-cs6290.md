@@ -1,6 +1,6 @@
 ---
 title: A GT OMSCS Course Review – High Performance Computer Architecture (CS6290)
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-05-03T20:46:44+00:00
 url: /2020/05/03/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/

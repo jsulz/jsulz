@@ -1,6 +1,6 @@
 ---
 title: Building a Visual Regression Testing Application Using React, Selenium, Node.js, and the WordPress REST API
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2017-06-20T23:05:32+00:00
 url: /2017/06/20/building-visual-regression-testing-application-lexblog/

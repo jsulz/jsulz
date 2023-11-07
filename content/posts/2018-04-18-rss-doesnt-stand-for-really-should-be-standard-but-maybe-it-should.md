@@ -1,6 +1,6 @@
 ---
 title: RSS Doesn’t Stand for “Really Should be Standard”, but Maybe It Should
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-04-19T00:28:00+00:00
 url: /2018/04/18/rss-doesnt-stand-for-really-should-be-standard-but-maybe-it-should/

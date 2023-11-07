@@ -1,6 +1,6 @@
 ---
 title: Understanding NP-complete.
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-11-20T20:33:07+00:00
 url: /2018/11/20/understanding-np-complete/

@@ -1,6 +1,6 @@
 ---
 title: Gutenberg – The Future of WordPress’s Post Editor
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2017-06-22T16:08:07+00:00
 url: /2017/06/22/gutenberg-the-future-of-wordpresss-post-editor/

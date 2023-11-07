@@ -1,6 +1,6 @@
 ---
 title: Working Remotely in Anchorage, Alaska
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2019-08-27T18:57:02+00:00
 url: /2019/08/27/working-remotely-in-anchorage-alaska/

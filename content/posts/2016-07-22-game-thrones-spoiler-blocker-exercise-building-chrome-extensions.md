@@ -1,6 +1,6 @@
 ---
 title: Game of Thrones Spoiler Blocker – an Exercise in Building Chrome Extensions
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-07-22T17:40:28+00:00
 url: /2016/07/22/game-thrones-spoiler-blocker-exercise-building-chrome-extensions/

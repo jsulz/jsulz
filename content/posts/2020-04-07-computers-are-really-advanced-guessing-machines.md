@@ -1,6 +1,6 @@
 ---
 title: Computers Are (Really) Advanced Guessing Machines
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2020-04-07T21:54:59+00:00
 url: /2020/04/07/computers-are-really-advanced-guessing-machines/

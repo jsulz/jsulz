@@ -1,6 +1,6 @@
 ---
 title: JavaScript JavaScript JavaScript JavaScript
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2016-03-09T18:39:08+00:00
 url: /2016/03/09/javascript-javascript-javascript-javascript/

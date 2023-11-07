@@ -1,6 +1,6 @@
 ---
 title: A LexBlogger’s Summer in Review
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2018-09-18T19:12:28+00:00
 url: /2018/09/18/lexbloggers-summer-review/

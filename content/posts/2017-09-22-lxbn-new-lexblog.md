@@ -1,6 +1,6 @@
 ---
 title: LXBN as the New LexBlog
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2017-09-22T22:20:11+00:00
 url: /2017/09/22/lxbn-new-lexblog/
