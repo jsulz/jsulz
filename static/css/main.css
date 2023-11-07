@@ -523,9 +523,27 @@ footer div.disclaimer {
   height: 192px;
   width: 192px;
 }
+
 .post-preview .post-read-more {
-  font-weight: 800;
   float: right;
+}
+
+.post-preview a.post-read-more {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 10px 10px;
+  background: #FFF;
+  border-radius: 0;
+  color: #404040;
+}
+
+.post-preview a:hover.post-read-more ,
+.post-preview a:focus.post-read-more  {
+  color: #FFF;
+  background: #cd2653;
 }
 
 @media only screen and (min-width: 768px) {
