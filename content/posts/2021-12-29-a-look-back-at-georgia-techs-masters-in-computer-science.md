@@ -1,6 +1,6 @@
 ---
 title: A Look Back at Georgia Tech’s Master’s in Computer Science
-author: jared
+author: Jared Sulzdorf
 type: post
 date: 2021-12-29T17:30:51+00:00
 url: /2021/12/29/a-look-back-at-georgia-techs-masters-in-computer-science/
