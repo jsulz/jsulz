@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2020-05-03T20:46:44+00:00
 url: /2020/05/03/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - Georgia Tech OMSCS
   - High Performance Computer Architecture

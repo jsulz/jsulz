@@ -624,7 +624,7 @@ footer div.disclaimer {
 .intro-header.big-img .post-heading {
   padding: 100px 0;
   color: #FFF;
-  text-shadow: 1px 1px 3px #000;
+  text-shadow: 2px 2px 5px #000;
 }
 .intro-header .page-heading h1,
 .intro-header .tags-heading h1,
@@ -671,6 +671,19 @@ footer div.disclaimer {
   bottom: 0;
   display: none;
 }
+
+.intro-header.big-img .post-heading h1 {
+  background-color: rgba(85, 85, 85, 0.5);
+  padding:10px;
+}
+.intro-header.big-img .post-meta {
+  background-color: rgba(85, 85, 85, 0.5);
+  padding: 5px;
+  text-shadow: 2px 2px 2px #000;
+  font-size: 18px;
+  color: #FFF;
+}
+
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-top: 130px;

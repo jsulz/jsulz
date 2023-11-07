@@ -4,8 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2016-01-28T09:03:00+00:00
 url: /2016/01/28/ma-bell-fostering-innovation/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
+bigimg: [{ src: "/img/Apple_Campus_2_rendering.jpeg", desc: "Original Apple campus designs" }]
 categories:
   - "What's This!?"
 
@@ -22,11 +21,7 @@ One of the more interesting concepts in the book is regarding the idea of foster
 
 At Bell Labs, a brilliant manager by the name of [Mervin Kelly][3]&nbsp;realized that they key to success was to artificially create situations where engineers and scientists were&nbsp;forced to commingle.&nbsp;He designed the Labs to be conducive to chance meetings and encouraged spontaneous exploration of ideas that came about from these meetings.
 
-<div class="wp-block-image">
-  <figure class="alignright"><a href="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2016/01/Apple_Campus_2_rendering.jpg"><img decoding="async" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2016/01/Apple_Campus_2_rendering-320x204.jpg" alt="Apple Campus 2 - Licensed under CC BY-SA 3.0 via Commons" class="wp-image-1827" /></a><figcaption>Apple Campus 2 &#8211; Licensed under CC BY-SA 3.0 via Commons</figcaption></figure>
-</div>
-
-Like Kelly, Jobs believed that these sorts of interactions created products that were beyond what one would build in solitude or surrounded by like-minded people. The original designs of the Apple Campus (pictured to the right) were a nod to many of Jobs&#8217;s ideas around forcing employees to walk past each other, forcing people that might otherwise never see each other to interact, and potentially create the next iPod.
+Like Kelly, Jobs believed that these sorts of interactions created products that were beyond what one would build in solitude or surrounded by like-minded people. The original designs of the Apple Campus (pictured above) were a nod to many of Jobs&#8217;s ideas around forcing employees to walk past each other, forcing people that might otherwise never see each other to interact, and potentially create the next iPod.
 
 Moving aside spatial concerns for a moment, the&nbsp;notion of corporate culture gets a fair amount of lip service, but&nbsp;is rarely (if ever) taken to the same extent&nbsp;that Bell Labs did.&nbsp;The bottom line was certainly of concern to AT&T, and it would be foolish to say that failure was acceptable (just a few buildings away from Bell Labs technicians were engaged in decade long experiments regarding the weatherproof capabilities of various wood treatments), but the freedom to explore was a given for many of the laboratory&#8217;s most celebrated employees. That Bell Labs&#8217;s&nbsp;most celebrated&nbsp;inventions sprung from the somewhat random relationships that grew between theoreticians and engineers and their desire to investigate the outer limits of what was known and capable is and was impressive, but it was certainly no mistake.
 

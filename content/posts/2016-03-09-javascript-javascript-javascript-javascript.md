@@ -4,9 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2016-03-09T18:39:08+00:00
 url: /2016/03/09/javascript-javascript-javascript-javascript/
-featured_image: /wp-content/uploads/2016/03/logo_JavaScript.png
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - "What's This!?"
 

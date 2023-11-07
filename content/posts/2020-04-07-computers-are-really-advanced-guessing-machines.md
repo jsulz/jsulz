@@ -18,7 +18,7 @@ Artificial intelligence is the pinnacle of guessing as it employs practical tech
 
 Unfortunately, we have to start with the math to provide some concrete foundations (and because it&#8217;s not as fun as the heuristics in a search algorithm; gotta have some vegetables before we get to the sugar). You&#8217;ve undoubtedly seen a Gaussian distribution. If you&#8217;ve been in any course with a curve, the professor has likely put on some slide, a picture that looks something like this:
 
-<img decoding="async" loading="lazy" class="aligncenter size-full wp-image-2899" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2020/04/scores.gif" alt="" width="387" height="134" /> 
+![Scores](/img/scores.gif "Score distribution")
 
 In this simple chart we see two fundamental concepts:
 

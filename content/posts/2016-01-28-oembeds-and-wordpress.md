@@ -22,7 +22,7 @@ Beyond that, WordPress also provides some great ways to add oEmbed providers you
 
 For example, I recently worked on this fine function:
 
-https://gist.github.com/jsulz/f0dcd950d3c7b1d85620
+{{< gist jsulz f0dcd950d3c7b1d85620 >}}
 
 that allowed me to add support for Github gists as an embed provider! Now, anyone on the LexBlog network with the oEmbed Whitelist plugin activated could feasibly add links to GitHub gists of their own.
 

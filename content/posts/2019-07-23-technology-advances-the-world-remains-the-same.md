@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2019-07-23T19:24:59+00:00
 url: /2019/07/23/technology-advances-the-world-remains-the-same/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - "What's This!?"
 
@@ -20,9 +18,7 @@ Perhaps because I&#8217;m in a more forgiving mood today, or I&#8217;ve had the 
 
 In 1964, [Douglas Engelbart][1] (an Oregon State University graduate!), developed the first public prototype of a mouse. Pictured below, the mouse was a crude thing, just a wooden box with two wheels to manage direction in a linear plane. While other mouse-like devices had been created, [they were mostly military inventions and so out of the public light][2]. Engelbart&#8217;s device was the first publicly patented mouse, and was decades ahead of its time.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" class="wp-image-2693" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2019/07/Firstmouseunderside.jpg" alt="" /> <figcaption>Engelbart holding the first mouse</figcaption> </figure>
-</div>
+![](/img/Firstmouseunderside.jpeg "")
 
 In fact, it was so far ahead of its time that Mr. Engelbart never saw a dime for his creation. The patent expired before such peripherals became widely used. This was before the common operating system patterns that we see today (applications with windows and a cursor to manage a graphical interface); illustrating the vision of our early computer pioneers.
 

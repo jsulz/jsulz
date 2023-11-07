@@ -4,8 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2020-01-03T19:40:46+00:00
 url: /2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
+bigimg: [{ src: "/img/complexity.png", desc: "The complexity of operating systems"}]
 categories:
   - Georgia Tech OMSCS
 

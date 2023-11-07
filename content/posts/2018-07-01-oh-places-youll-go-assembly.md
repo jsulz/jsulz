@@ -4,8 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2018-07-01T17:28:54+00:00
 url: /2018/07/01/oh-places-youll-go-assembly/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
+bigimg: [{ src: "/img/twd-logo-large-740x267-1.png", desc: ""}]
 categories:
   - OSU Post-Bacc
 

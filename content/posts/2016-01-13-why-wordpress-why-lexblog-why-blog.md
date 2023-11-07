@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2016-01-13T14:22:17+00:00
 url: /2016/01/13/why-wordpress-why-lexblog-why-blog/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - LexBlog
   - WordPress

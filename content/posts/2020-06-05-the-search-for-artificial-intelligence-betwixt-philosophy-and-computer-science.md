@@ -4,8 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2020-06-05T13:20:53+00:00
 url: /2020/06/05/the-search-for-artificial-intelligence-betwixt-philosophy-and-computer-science/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
+bigimg: [{ src: "/img/owl.png", desc: "Niklas Bostram: Superintelligence"}]
 categories:
   - Artificial Intelligence
 
@@ -18,17 +17,11 @@ As of late, my mind has turned firmly to the topic of artificial intelligence. N
 
 My introduction the concerns this book articulates and addresses was through [Wait But Why][5], which covers the concerns around superintelligence (which Bostrom defines as &#8220;_any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest_&#8220;) in a [two][6] [part][7] series. The posts, which are fun and contain pretty pictures to distract you from the heavy topic, summarize the concerns of Bostrom and others regarding AI. These concerns are perhaps best summarized by Bostrom himself, who writes:
 
-<blockquote class="wp-block-quote">
-  <p>
-    We have what may be an extremely difficult problem with an unknown time to solve it, on which quite possibly the entire future of humanity depends.
-  </p>
-</blockquote>
+> We have what may be an extremely difficult problem with an unknown time to solve it, on which quite possibly the entire future of humanity depends.
 
 If you&#8217;d rather not read the posts, the notion is that intelligence provides great capabilities, but humans operate on a human timescale (slow). Machines are not intelligent, but operate on a machine timescale (way faster!). If machines were endowed with the power of intelligence they would see a rapid improvement of that intelligence (due to its recursive nature where intelligence begets more intelligence) that would exceed that of humans at an uncontrollable rate, putting human existence in peril. This is best illustrated by this chart from Wait But Why:
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" src="https://www.jsulz.com/wp-content/uploads/sites/10/2020/05/wait-but-why-740x604.png" alt="" class="wp-image-3118" /></figure>
-</div>
+![Wait But Why](/img/wait-but-why-1024x836.png "Intelligence goes up")
 
 Bostrom explores this question in greater detail through his book.
 
@@ -36,10 +29,9 @@ _Superintelligence_ takes a somewhat meandering path given how pressing Bostrom 
 
 These take two major forms. The more corporeal concerns focus on humanity&#8217;s inability to work together (leading to many fractured projects in a zero-sum battle to reach superintelligence) and share wealth. The latter is post hoc where the rise of AI leads to one of many possible dystopias as a result of a massive economic upheaval.
 
-The second concern is around artificial intelligence itself, and here is where Bostrom expends most of his energy. It&#8217;s hard to articulate these concerns succinctly, so if you have 15 minutes, I highly recommend this video from Sam Harris which was inspired by this book:<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+The second concern is around artificial intelligence itself, and here is where Bostrom expends most of his energy. It&#8217;s hard to articulate these concerns succinctly, so if you have 15 minutes, I highly recommend this video from Sam Harris which was inspired by this book:
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+{{< youtube 8nt3edWLgIg >}}
 
 While these problems are interesting, what I found more captivating where the questions behind the problems. What are goals? What are motives? What is will? What is control? How do we define these things ourselves so that we can design them effectively in a new intelligence?
 

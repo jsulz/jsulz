@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2019-06-25T19:46:06+00:00
 url: /2019/06/25/finishing-one-degree-starting-another/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - Georgia Tech OMSCS
   - OSU Post-Bacc

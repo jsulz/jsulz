@@ -4,14 +4,12 @@ author: Jared Sulzdorf
 type: post
 date: 2020-03-03T17:53:30+00:00
 url: /2020/03/03/the-engineering-art-of-balancing-desire-with-reality-as-told-by-processor-caches/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - Georgia Tech OMSCS
   - High Performance Computer Architecture
 
 ---
-<figure id="attachment_2857" aria-describedby="caption-attachment-2857" style="width: 315px" class="wp-caption alignright"><img decoding="async" loading="lazy" class="size-medium wp-image-2857" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2020/03/zen-315x320.png" alt="" width="315" height="320" /><figcaption id="caption-attachment-2857" class="wp-caption-text">AMD&#8217;s Zen architecture on their Ryzen CPUs. Look at all that complexity!!</figcaption></figure>
+![AMD Zen Architecture](/img/zen-315x320-1.png#floatright "AMD Zen Architecture")
 
 In a course about high performance computer architecture, it&#8217;s no surprise that most of the time is spent discussing how to speed up computers using their architecture. It&#8217;s almost as though the name of the course tells you exactly what to expect.
 

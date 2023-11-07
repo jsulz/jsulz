@@ -11,7 +11,7 @@ categories:
 ---
 My wife and I have a running joke in the house when either one of us moves something to its &#8220;correct&#8221; resting place, usually punctuated by breaking out into song.
 
-
+{{< youtube onRk0sjSgFU >}}
 
 Computer science is the practical application of many other sciences (solid state physics, calculus, linear algebra, information science, etc., etc., etc.), but it is at its most exacting and least forgiving the closer to the hardware you get. Here, everything truly does have its right place.
 

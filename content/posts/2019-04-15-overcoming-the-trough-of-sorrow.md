@@ -4,10 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2019-04-15T15:30:28+00:00
 url: /2019/04/15/overcoming-the-trough-of-sorrow/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2019/04/15/overcoming-the-trough-of-sorrow/
+bigimg: [{src: "/img/troughofsorrow.jpeg", desc: "Trough of sorrow"}]
 categories:
   - LexBlog
   - Product Mangement
@@ -17,12 +14,8 @@ Before I dive in, I should note that this post was written as [LexBlog][1] hits 
 
 There&#8217;s a line in Fight Club that I love that comes to mind when thinking about my favorite memories at LexBlog:
 
-<blockquote class="wp-block-quote">
-  You met me at a very strange time in my life. <cite>Narrator </cite>
-</blockquote>
-
+>  You met me at a very strange time in my life.
 <!--more-->
-
 In many ways, I met LexBlog at a very strange time in its life. In many other ways, we met each other at the perfect moment.
 
 Long before moving to Seattle, LexBlog was a fascinating part of my day-to-day. Alongside Colin O&#8217;Keefe, I had a view of the entire network of LexBlog publishers through LexMonitor and then LXBN; our two initial attempts at a network site that showcased the work of all legal publishers online. My view of the company was shaped by the authors that used its software, not by the people that worked there or the challenges they faced.

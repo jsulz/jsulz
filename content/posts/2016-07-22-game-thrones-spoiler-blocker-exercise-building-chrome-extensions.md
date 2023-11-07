@@ -4,15 +4,13 @@ author: Jared Sulzdorf
 type: post
 date: 2016-07-22T17:40:28+00:00
 url: /2016/07/22/game-thrones-spoiler-blocker-exercise-building-chrome-extensions/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - JavaScript
 
 ---
 Recently, I got it into my head that learning how to build a Chrome extension was a good idea. My current list of extensions includes LastPass, Chrome UA Spoofer, Live HTTP Headers, React Developer Tools, JSON Viewer, and a few others that you can see in this dandy screenshot:
 
-[<img decoding="async" loading="lazy" class="aligncenter size-large wp-image-1912" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2016/07/Screen-Shot-2016-07-22-at-10.19.05-AM-740x43.png" alt="Screen Shot 2016-07-22 at 10.19.05 AM" width="740" height="43" />][1]
+![](/img/Screen-Shot-2016-07-22-at-10.19.05-AM.png "")
 
 The last icon you see there, is from your truly! The function of this extension is straightforward &#8211; I love Game of Thrones, refuse to watch the television series because I&#8217;ve invested too much time in the books, and I hate spoilers. This intractability combined with a love of surfing the internet has lead to a dangerous cocktail that this tool endeavors to support by blocking all elements on a webpage that could contain spoilers.
 

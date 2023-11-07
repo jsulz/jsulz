@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2018-01-12T20:00:26+00:00
 url: /2018/01/12/make-technology-humans/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - LexBlog
   - "What's This!?"

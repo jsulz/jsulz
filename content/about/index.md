@@ -12,6 +12,6 @@ lxb_af-post_meta-lxb_af_page_template-layout:
 ---
 I&#8217;m a product manager, constantly searching for new ways to play around with 1&#8217;s and 0&#8217;s. I love coffee, food, computers, the great outdoors, and my wife (and certainly not in that order).
 
-At the moment I&#8217;m looking for work, but I also run, play around with computers, and bake bread.<figure id="attachment_2830" aria-describedby="caption-attachment-2830" style="width: 740px" class="wp-caption alignnone">
+At the moment I&#8217;m looking for work, but I also run, play around with computers, and bake bread.
 
-<img decoding="async" loading="lazy" class="size-large wp-image-2830" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2020/01/bread-740x416.jpg" alt="" width="740" height="416" /> <figcaption id="caption-attachment-2830" class="wp-caption-text">I made this.</figcaption></figure>
+{{< figure src="/img/bread.jpeg" >}}

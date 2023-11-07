@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2017-06-22T16:08:07+00:00
 url: /2017/06/22/gutenberg-the-future-of-wordpresss-post-editor/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - LexBlog
   - WordPress
@@ -21,11 +19,11 @@ That simple fact shouldn&#8217;t be surprising. We run a network of digital lega
 
 My first impression is that it&#8217;s pretty and unobtrusive, two things that the current post editor is not. If you take a look at the post editor page that I&#8217;m used to seeing:
 
-<figure id="attachment_2000" aria-describedby="caption-attachment-2000" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-large wp-image-2000" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/06/post-editor-740x400.png" alt="LexBlog's Post Editor" width="740" height="400" /><figcaption id="caption-attachment-2000" class="wp-caption-text">LexBlog&#8217;s Post Editor</figcaption></figure>
+![](/img/post-editor.png "")
 
 and compare it to Gutenberg&#8217;s post editor:
 
-<figure id="attachment_2001" aria-describedby="caption-attachment-2001" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-large wp-image-2001" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/06/gutenberg-740x384.png" alt="Gutenberg!" width="740" height="384" /><figcaption id="caption-attachment-2001" class="wp-caption-text">Gutenberg!</figcaption></figure>
+![](/img/gutenberg.png "")
 
 it&#8217;s pretty easy to see the difference.
 
@@ -33,7 +31,7 @@ Gone are the countless meta boxes (although, as Jorbin points out, if developers
 
 It&#8217;s when you start interacting with Gutenberg that it comes to life. Each click or hit of the return key triggers the UI to give you options for adding content blocks (Gutenberg is built on the notion of content blocks – an image is a content block, a blockquote is a content block, an embed is a content block) and you can add them to your post by clicking &#8220;Insert&#8221; or a small &#8220;+&#8221; icon that appears on the left hand side of the post, under each block. Doing so, gives you a plethora of blocks to add.
 
-<figure id="attachment_2002" aria-describedby="caption-attachment-2002" style="width: 280px" class="wp-caption alignleft"><img decoding="async" loading="lazy" class="size-full wp-image-2002" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/06/content-blocks.png" alt="Available content blocks" width="280" height="543" /><figcaption id="caption-attachment-2002" class="wp-caption-text">Available content blocks</figcaption></figure>
+![](/img/content-blocks.png "")
 
 The fun thing about this notion of content blocks, is that it&#8217;s easier to make things look pretty! To the left, you&#8217;ll see a screenshot of all the options for adding a new content block, and each block comes with it&#8217;s own set of options.
 

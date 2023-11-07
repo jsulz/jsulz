@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2019-03-19T19:18:43+00:00
 url: /2019/03/19/a-brief-history-of-c/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-right
 categories:
   - OSU Post-Bacc
   - Technology

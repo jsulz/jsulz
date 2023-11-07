@@ -4,8 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2019-12-18T22:13:31+00:00
 url: /2019/12/18/a-full-time-student/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
+bigimg: [{ src: "/img/backpack.jpeg", desc: "Taking a break before diving in"}]
 categories:
   - Georgia Tech OMSCS
 

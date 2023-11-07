@@ -4,8 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2017-08-29T16:20:03+00:00
 url: /2017/08/29/lexblog-moving-wework/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
+bigimg: [{ src: "/img/20170829_075743.jpeg", desc: "Dexter Horton building ceiling"}]
 categories:
   - LexBlog
 
@@ -18,7 +17,7 @@ In 2014 we moved to the [Dexter Horton Building on 2nd Avenue][5]. Still next to
 
 Dexter Horton is a fine building, but as the years wore on, and the company&#8217;s focus shifted from a hybrid agency-service model to one with a greater emphasis on technology (still with great service though &#8211; big shout-out to our Success Team!), it became clear that those offices had outlived their purpose. We were (and are) a team of just under 20 now, with two of our most senior employees working remotely and a handful of Seattle LexBloggers working from home one or two days a week. The offices on the 6th floor of Dexter Horton grew quiet and cavernous.<figure class="wp-block-image"> <figure style="width: 582px" class="wp-caption aligncenter">
 
-<img decoding="async" loading="lazy" class="" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/08/20170829_075248.jpg" alt="" width="582" height="327" /> <figcaption class="wp-caption-text">Right outside the elevators on the 6th floor at Dexter Horton</figcaption></figure> </figure> 
+![](/img/20170829_075248.jpeg "")
 
 As we looked for a new space, our intrepid COO Garry Vander Voort seemed to grow increasingly annoyed with the state of office space in Seattle. With Amazon flexing their muscles, and the startup scene in Seattle truly just beginning, the cost of space is on the rise. This is especially true in Pioneer Square, where the hip new kids on the block are moving to in droves.
 
@@ -40,13 +39,26 @@ After visiting the space and re-reading [A Year Without Pants][8] for the third 
 
 Today, I&#8217;m writing from a two-person office on the third floor in WeWork&#8217;s [Holyoke Building in Pioneer Square][9], just blocks away from our old offices. I&#8217;ve been here for nearly a month, and could not be happier. The space is more vibrant and abuzz with activity, interesting companies surround us, allowing LexBloggers to see and interact with people from all walks of life and industry, and the cold brew is nice too 🙂
 
-Our old offices are still open, but nearly empty. Here&#8217;s a look at how things look currently:<figure class="wp-block-image"> <figure style="width: 602px" class="wp-caption aligncenter">
+Our old offices are still open, but nearly empty. Here&#8217;s a look at how things look currently:
 
-<img decoding="async" loading="lazy" class="" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/08/20170829_075324.jpg" alt="" width="602" height="338" /> <figcaption class="wp-caption-text">The office entrance, littered with whiteboards, chairs, and a few old desks.</figcaption></figure> </figure> <figure class="wp-block-image"> <figure style="width: 601px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/08/20170829_075421.jpg" alt="" width="601" height="338" /><figcaption class="wp-caption-text">A look from the back of the office. So empty!</figcaption></figure> </figure> <figure class="wp-block-image"> <figure style="width: 601px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/08/20170829_075534.jpg" alt="" width="601" height="338" /><figcaption class="wp-caption-text">Kevin&#8217;s office. Yes, that&#8217;s the Nike &#8220;Just Do It&#8221; slogan just out of sight.</figcaption></figure> </figure> <figure class="wp-block-image"> <figure style="width: 607px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/08/20170829_075355.jpg" alt="" width="607" height="341" /><figcaption class="wp-caption-text">Remnants of an older LexBlog.</figcaption></figure> </figure> 
+![](/img/20170829_075324.jpeg "")
+ 
+ 
+ ![](/img/20170829_075421.jpeg "")
+ 
+ 
+ ![](/img/20170829_075534.jpeg "")
 
-While there are parts of the Dexter Horton Building that I&#8217;ll miss, the space at WeWork is far better suited to where we are and where we&#8217;re going as a company. The opportunity to work at WeWork&#8217;s other Seattle locations is something I&#8217;ll explore as we get settled in, but for now, Holyoke is our new home and it&#8217;s feeling pretty cozy so far.<figure id="attachment_2037" aria-describedby="caption-attachment-2037" style="width: 605px" class="wp-caption aligncenter">
 
-<img decoding="async" loading="lazy" class="wp-image-2037 " src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/08/20170802_174916.jpg" alt="" width="605" height="340" /> <figcaption id="caption-attachment-2037" class="wp-caption-text">A look at WeWork&#8217;s 3rd floor. Such glass. Much space.</figcaption></figure> <figure id="attachment_2038" aria-describedby="caption-attachment-2038" style="width: 603px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class=" wp-image-2038" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/08/20170829_080605.jpg" alt="" width="603" height="339" /><figcaption id="caption-attachment-2038" class="wp-caption-text">My desk at Holyoke 🙂</figcaption></figure> 
+ ![](/img/20170829_075355.jpeg "")
+
+
+While there are parts of the Dexter Horton Building that I&#8217;ll miss, the space at WeWork is far better suited to where we are and where we&#8217;re going as a company. The opportunity to work at WeWork&#8217;s other Seattle locations is something I&#8217;ll explore as we get settled in, but for now, Holyoke is our new home and it&#8217;s feeling pretty cozy so far.
+
+![](/img/20170802_174916.jpeg "")
+
+![](/img/20170829_080605.jpeg "")
+
 
 ### Gutenberg Aside
 

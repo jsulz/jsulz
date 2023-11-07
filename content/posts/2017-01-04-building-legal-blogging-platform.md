@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2017-01-05T01:22:19+00:00
 url: /2017/01/04/building-legal-blogging-platform/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - LexBlog
 
@@ -20,7 +18,13 @@ All of this work has been crucial to our success as a company, and vital to make
 
 This tool, developed using a component of the [Fastcase][5] API and with assistance from the Fastcase team, represents a continuation of a philosophical (the notion of opening up the law to lawyers and consumers) and technical (building, delivering, and supporting products through technology and top-notch support) shift here at LexBlog.
 
-Let&#8217;s say that I want to link the text [Roe v. Wade][6] to the full text of the case itself &#8211; that&#8217;s made possible through this integration. The link takes you to a publicly available page hosted by Fastcase that includes the case in its entirety. I used the &#8220;Look up citation&#8221; route to find this case, but the interface supports a general search of the Fastcase database, so if you&#8217;re interested in finding a specific citation/link to a case that discusses, say, Eastlake, Seattle (where I live), well, that&#8217;s possible too.
+Let&#8217;s say that I want to link the text [Roe v. Wade][6] to the full text of the case itself &#8211; that&#8217;s made possible through this integration. The link takes you to a publicly available page hosted by Fastcase that includes the case in its entirety. 
+
+![](/img/2017-01-04-16.55.28-iloveimg-compressed.gif "")
+
+I used the &#8220;Look up citation&#8221; route to find this case, but the interface supports a general search of the Fastcase database, so if you&#8217;re interested in finding a specific citation/link to a case that discusses, say, Eastlake, Seattle (where I live), well, that&#8217;s possible too.
+
+![](/img/2017-01-04-17.15.42.gif "")
 
 This wouldn&#8217;t be possible without piggybacking off of Fastcase&#8217;s APIs, and as you may be able to tell, the &#8220;Search for a case&#8221; feature actually chains together a few different components of that API where we first run a search to get back all of the existing citations for a phrase/term, and then take that citation and get the link after a user interacts with the &#8220;Use Citation&#8221; or &#8220;Use Link&#8221; button(s).
 

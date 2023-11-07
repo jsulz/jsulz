@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2018-09-25T19:25:27+00:00
 url: /2018/09/25/investigating-new-options-search-lexblog-com/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - LexBlog
 
@@ -37,11 +35,11 @@ But I continue to come back to Elasticsearch for a number of reasons:
 
 This weekend, I took Elasticsearch/ElasticPress for a spin on [LexBlog.com][2]&#8216;s staging environment, and the results were surprising. Most keyword searches were 3-5 times faster (again, that speed difference alone is enough for me to favor Elasticsearch over WordPress&#8217;s search). Here&#8217;s a view of how long it takes for someone to search for &#8220;Kavanaugh&#8221; on LexBlog.com&#8217;s production environment:
 
-<figure id="attachment_2292" aria-describedby="caption-attachment-2292" style="width: 1904px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="wp-image-2292 size-full" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2018/09/Screen-Shot-2018-09-25-at-12.12.37-PM.png" alt="" width="1904" height="1002" /><figcaption id="caption-attachment-2292" class="wp-caption-text">Over 13 seconds!</figcaption></figure>
+![](/img/Screen-Shot-2018-09-25-at-12.12.37-PM.png "")
 
 and here&#8217;s what it looks like in staging:
 
-<figure id="attachment_2293" aria-describedby="caption-attachment-2293" style="width: 1902px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="wp-image-2293 size-full" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2018/09/Screen-Shot-2018-09-25-at-12.12.30-PM.png" alt="" width="1902" height="994" /><figcaption id="caption-attachment-2293" class="wp-caption-text">Just over 4 seconds &#8211; much better 🙂</figcaption></figure>
+![](/img/Screen-Shot-2018-09-25-at-12.12.30-PM.png "")
 
 More than speed, though, Elasticsearch&#8217;s queries are optimized for searches in a way that WordPress is not. As I mentioned, WordPress searches post content and titles, but Elasticsearch/ElasticPress expands that to include taxonomies (tags, categories, and custom taxonomies) and bylines.
 

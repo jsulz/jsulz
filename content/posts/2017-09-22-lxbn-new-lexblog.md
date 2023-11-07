@@ -4,8 +4,7 @@ author: Jared Sulzdorf
 type: post
 date: 2017-09-22T22:20:11+00:00
 url: /2017/09/22/lxbn-new-lexblog/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
+bigimg: [{ src: "/img/lxbn-redesigned.png", desc: "Dexter Horton building ceiling"}]
 categories:
   - LexBlog
 
@@ -22,17 +21,17 @@ My frustration was primarily around the notion of the update itself! As a curmud
 
 To that end, the new admin color scheme comes with a default palette that reflects our updated brand and falls in line with our new LexBlog Network design and two additional options for those that want something a bit different from our off-the-rack option.
 
-<figure id="attachment_2070" aria-describedby="caption-attachment-2070" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="wp-image-2070 size-large" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/09/User-Profile-Color-Scheme-Controls-740x405.png" alt="" width="740" height="405" /><figcaption id="caption-attachment-2070" class="wp-caption-text">The three new color scheme options on each author&#8217;s profile page</figcaption></figure>
+![](/img/color-options.png "")
 
 The technical fun was that Brian got the chance to stretch his legs (and mind) and learn a bit of Sass and Git &#8211; a huge departure for a self-proclaimed lover of Photoshop. Meanwhile, Angelo dodged around some core WordPress issues, which has it&#8217;s own expectations for color schemes, to make sure that publishers and admins logging in for the first time were greeted by the new look.
 
 Here are each of these three options in all their glory:
 
-<figure id="attachment_2068" aria-describedby="caption-attachment-2068" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-large wp-image-2068" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/09/LexBlog-Classic-740x405.png" alt="LexBlog Classic - the default for all users!" width="740" height="405" /><figcaption id="caption-attachment-2068" class="wp-caption-text">LexBlog Classic &#8211; the default for all users!</figcaption></figure>
+![](/img/LexBlog-Classic.png "")
 
-<figure id="attachment_2067" aria-describedby="caption-attachment-2067" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-large wp-image-2067" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/09/LexBlog-Slate-740x405.png" alt="" width="740" height="405" /><figcaption id="caption-attachment-2067" class="wp-caption-text">LexBlog Slate &#8211; my personal favorite 🙂</figcaption></figure>
+![](/img/LexBlog-Slate.png "")
 
-<figure id="attachment_2069" aria-describedby="caption-attachment-2069" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-large wp-image-2069" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/09/LexBlog-Turquoise-740x406.png" alt="" width="740" height="406" /><figcaption id="caption-attachment-2069" class="wp-caption-text">LexBlog Turquoise &#8211; I think Brian just wanted some pretty colors here</figcaption></figure>
+![](/img/LexBlog-Turquoise.png "")
 
 This update was launched Friday, shortly after our team finalized the new Lexblog Network&#8217;s design. The LexBlog Network (a.k.a., The Artist Formerly Known as LXBN) is LexBlog&#8217;s portal to all of our client&#8217;s content. Built in 2011, the site had not received a proper facelift in years, and feature additions were managed in an ad hoc fashion, creating a bit of a Frankenstein&#8217;s monster of a theme. The featured image on this post is a look at the new design, [but you can check it out for yourself][10]!
 
@@ -42,9 +41,9 @@ For The LexBlog Network, this is just the beginning. This facelift is part of a 
 
 To view this yourself, just log into your blog (if you have multiple blogs with LexBlog, any blog will do), click on the &#8220;Howdy, [your name]&#8221; link in the upper right-hand corner of the screen, and navigate to the bottom of your user profile. Here you will see an option to click on a button to manage your subscriptions to content from The LexBlog Network. For Premier blog admins, this capability is present in the Network User Management screens for individual users as well, giving you the capability to expose your authors to content from hundreds of blogs on subjects that matter to them.
 
-<figure id="attachment_2072" aria-describedby="caption-attachment-2072" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-large wp-image-2072" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/09/first-look-740x176.png" alt="" width="740" height="176" /><figcaption id="caption-attachment-2072" class="wp-caption-text">At first you don&#8217;t see it&#8230;..</figcaption></figure>
+![](/img/first-look.png "")
 
-<figure id="attachment_2071" aria-describedby="caption-attachment-2071" style="width: 740px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-large wp-image-2071" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2017/09/lxbn-subscriptions-740x298.png" alt="" width="740" height="298" /><figcaption id="caption-attachment-2071" class="wp-caption-text">And now you do!</figcaption></figure>
+![](/img/lxbn-subscriptions.png "")
 
 Our intrepid document writer, Ted Cox, has put together [an article on our help center][13] that should guide you through the process better than my feeble attempts at explaining, and if you&#8217;re a publisher on our network you should be seeing some emails coming to you shortly from our marketing team, led by [Mellina White-Cusack][14] (who has a blog of her own &#8211; also on our network &#8211; [The Seattle Conservative][15]).
 

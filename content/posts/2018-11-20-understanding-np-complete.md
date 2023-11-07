@@ -1,11 +1,9 @@
 ---
 title: Understanding NP-complete.
-author: Jared Sulzdorf
+author: jared
 type: post
 date: 2018-11-20T20:33:07+00:00
 url: /2018/11/20/understanding-np-complete/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - OSU Post-Bacc
 
@@ -18,7 +16,9 @@ This all adds up to a lot of numbers and those numbers represent commands that w
 
 <!--more-->
 
-This is to say, you should think, when you hear a computer can&#8217;t find an answer to a problem, that it&#8217;s a big deal.  These are the sorts of problems that a reasonably programmed (or so we think) computer with enough processors to require fans that sound like this: https://youtu.be/jBsc83_4RsQ?t=26
+This is to say, you should think, when you hear a computer can&#8217;t find an answer to a problem, that it&#8217;s a big deal.  These are the sorts of problems that a reasonably programmed (or so we think) computer with enough processors to require fans that sound like this:
+
+{{< youtube id="jBsc83_4RsQ" >}}
 
 just can&#8217;t solve if the domain is large enough.
 

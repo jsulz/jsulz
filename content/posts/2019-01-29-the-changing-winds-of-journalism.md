@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2019-01-29T20:56:23+00:00
 url: /2019/01/29/the-changing-winds-of-journalism/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - "What's This!?"
 
@@ -18,9 +16,7 @@ So to hear that the profession is dying, shrinking, or changing for the worse, a
 
 Now, this is by no means a new story &#8211; from 2005 onward the demise of the journalist has been a meta conversation for the industry. The timing correlates to when advertising revenues for newspapers began to decline at a rate the industry was not yet prepared for:
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img decoding="async" class="wp-image-2492" src="https://jared.lexblogplatform.com/wp-content/uploads/sites/10/2019/01/chart.f46e656d2f76442eba59ea1a141a24a7.png" alt="" /></figure>
-</div>
+![](/img/chart.f46e656d2f76442eba59ea1a141a24a7.png "")
 
 This chart, pulled from a recent [Neimen Lab article about the rising cost of print subscriptions][2] underscores a hard reality: Newspapers are businesses first. Like any business, a newspaper employees professionals, manages operating costs, and receives money from people interested in their product. When the bottom line changes, so too must the business. In this case, that means finding new ways to make money (enter digital subscriptions), raising prices on your existing product, and searching for a new business model entirely.
 

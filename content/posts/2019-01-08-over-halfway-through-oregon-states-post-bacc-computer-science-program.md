@@ -4,8 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2019-01-08T20:39:16+00:00
 url: /2019/01/08/over-halfway-through-oregon-states-post-bacc-computer-science-program/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
 categories:
   - OSU Post-Bacc
 
