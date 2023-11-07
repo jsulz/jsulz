@@ -4,16 +4,8 @@ author: jared
 type: post
 date: 2019-08-27T18:57:02+00:00
 url: /2019/08/27/working-remotely-in-anchorage-alaska/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1566907022
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2019/08/27/working-remotely-in-anchorage-alaska/
 categories:
   - LexBlog
 

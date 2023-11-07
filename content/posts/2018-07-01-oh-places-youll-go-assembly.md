@@ -6,14 +6,6 @@ date: 2018-07-01T17:28:54+00:00
 url: /2018/07/01/oh-places-youll-go-assembly/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2018/07/01/oh-places-youll-go-assembly-2/
-dsq_thread_id:
-  - 6766397343
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - OSU Post-Bacc
 

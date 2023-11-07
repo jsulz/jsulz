@@ -6,12 +6,6 @@ date: 2020-01-03T06:34:02+00:00
 url: /2020/01/02/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1578004442
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/01/02/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/
 categories:
   - Georgia Tech OMSCS
 

@@ -4,14 +4,6 @@ author: jared
 type: post
 date: 2016-01-29T03:35:14+00:00
 url: /2016/01/28/oembeds-and-wordpress/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-dsq_thread_id:
-  - 4532603199
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2016/01/28/oembeds-and-wordpress-2/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - WordPress
 

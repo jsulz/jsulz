@@ -4,16 +4,6 @@ author: jared
 type: post
 date: 2020-05-05T05:23:56+00:00
 url: /2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1588631036
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - Georgia Tech OMSCS
   - 'Robotics: AI Techniques'

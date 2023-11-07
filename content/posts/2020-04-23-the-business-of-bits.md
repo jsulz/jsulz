@@ -4,16 +4,6 @@ author: jared
 type: post
 date: 2020-04-23T17:01:08+00:00
 url: /2020/04/23/the-business-of-bits/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1587636068
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/04/23/the-business-of-bits/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - Georgia Tech OMSCS
   - High Performance Computer Architecture

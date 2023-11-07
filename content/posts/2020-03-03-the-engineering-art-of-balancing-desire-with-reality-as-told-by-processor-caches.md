@@ -4,16 +4,8 @@ author: jared
 type: post
 date: 2020-03-03T17:53:30+00:00
 url: /2020/03/03/the-engineering-art-of-balancing-desire-with-reality-as-told-by-processor-caches/
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1583229210
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/03/03/the-engineering-art-of-balancing-desire-with-reality-as-told-by-processor-caches/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - Georgia Tech OMSCS
   - High Performance Computer Architecture

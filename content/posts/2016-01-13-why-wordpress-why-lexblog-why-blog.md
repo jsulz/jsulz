@@ -6,18 +6,6 @@ date: 2016-01-13T14:22:17+00:00
 url: /2016/01/13/why-wordpress-why-lexblog-why-blog/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 4626171205
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2016/01/13/why-wordpress-why-lexblog-why-blog-2/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2016/01/13/why-wordpress-why-lexblog-why-blog/
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1639642116
 categories:
   - LexBlog
   - WordPress

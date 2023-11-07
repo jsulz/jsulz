@@ -6,18 +6,6 @@ date: 2019-01-29T20:56:23+00:00
 url: /2019/01/29/the-changing-winds-of-journalism/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_needs_sync:
-  - 1
-dsq_thread_id:
-  - 7197260557
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1551884798
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2019/01/29/the-changing-winds-of-journalism/
 categories:
   - "What's This!?"
 

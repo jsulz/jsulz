@@ -4,10 +4,6 @@ author: jared
 type: post
 date: 2021-12-12T02:01:36+00:00
 url: /2021/12/11/cracking-my-favorite-products/
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1639245696
 categories:
   - Product Mangement
 

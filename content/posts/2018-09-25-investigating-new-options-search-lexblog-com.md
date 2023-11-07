@@ -4,18 +4,8 @@ author: jared
 type: post
 date: 2018-09-25T19:25:27+00:00
 url: /2018/09/25/investigating-new-options-search-lexblog-com/
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1537889128
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 6932220246
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - LexBlog
 

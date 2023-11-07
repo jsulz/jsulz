@@ -6,12 +6,6 @@ date: 2018-09-18T19:12:28+00:00
 url: /2018/09/18/lexbloggers-summer-review/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 6919493850
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - "What's This!?"
 

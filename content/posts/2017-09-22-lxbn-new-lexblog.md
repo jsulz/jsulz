@@ -6,14 +6,6 @@ date: 2017-09-22T22:20:11+00:00
 url: /2017/09/22/lxbn-new-lexblog/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 6163593857
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2017/09/22/lxbn-new-lexblog/
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - LexBlog
 

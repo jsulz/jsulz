@@ -4,16 +4,8 @@ author: jared
 type: post
 date: 2019-03-19T19:18:43+00:00
 url: /2019/03/19/a-brief-history-of-c/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-right
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1552997938
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2019/03/19/a-brief-history-of-c/
 categories:
   - OSU Post-Bacc
   - Technology

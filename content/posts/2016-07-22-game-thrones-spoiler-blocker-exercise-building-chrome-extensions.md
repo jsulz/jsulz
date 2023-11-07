@@ -6,14 +6,6 @@ date: 2016-07-22T17:40:28+00:00
 url: /2016/07/22/game-thrones-spoiler-blocker-exercise-building-chrome-extensions/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 5017190619
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2016/07/22/game-thrones-spoiler-blocker-exercise-building-chrome-extensions-2/
-dsq_needs_sync:
-  - 1
 categories:
   - JavaScript
 

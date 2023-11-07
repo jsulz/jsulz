@@ -6,14 +6,6 @@ date: 2018-01-12T20:00:26+00:00
 url: /2018/01/12/make-technology-humans/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 6409814933
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2018/01/12/make-technology-humans-2/
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - LexBlog
   - "What's This!?"

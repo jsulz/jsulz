@@ -6,14 +6,6 @@ date: 2020-03-19T17:46:34+00:00
 url: /2020/03/19/not-everything-is-about-computers-sometimes-its-about-bread/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1584614794
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/03/19/not-everything-is-about-computers-sometimes-its-about-bread/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - Foodz
 

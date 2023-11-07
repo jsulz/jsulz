@@ -4,18 +4,8 @@ author: jared
 type: post
 date: 2017-08-29T16:20:03+00:00
 url: /2017/08/29/lexblog-moving-wework/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 6104923415
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2017/08/29/lexblog-moving-wework/
-dsq_needs_sync:
-  - 1
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2017/08/29/lexblog-moving-wework/
 categories:
   - LexBlog
 

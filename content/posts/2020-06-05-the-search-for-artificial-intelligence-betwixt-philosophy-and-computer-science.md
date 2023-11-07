@@ -6,14 +6,6 @@ date: 2020-06-05T13:20:53+00:00
 url: /2020/06/05/the-search-for-artificial-intelligence-betwixt-philosophy-and-computer-science/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/06/05/the-search-for-artificial-intelligence-betwixt-philosophy-and-computer-science/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1638870434
 categories:
   - Artificial Intelligence
 

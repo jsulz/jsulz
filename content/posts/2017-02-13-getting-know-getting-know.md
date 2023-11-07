@@ -6,14 +6,6 @@ date: 2017-02-13T22:28:36+00:00
 url: /2017/02/13/getting-know-getting-know/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 5549030216
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2017/02/13/getting-know-getting-know-2/
-dsq_needs_sync:
-  - 1
 categories:
   - LexBlog
   - Product Mangement

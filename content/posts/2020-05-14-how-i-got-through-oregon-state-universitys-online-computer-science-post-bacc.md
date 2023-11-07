@@ -6,14 +6,6 @@ date: 2020-05-14T23:10:39+00:00
 url: /2020/05/14/how-i-got-through-oregon-state-universitys-online-computer-science-post-bacc/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1589472639
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/05/14/how-i-got-through-oregon-state-universitys-online-computer-science-post-bacc/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - OSU Post-Bacc
 

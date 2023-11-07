@@ -4,16 +4,8 @@ author: jared
 type: post
 date: 2017-06-20T23:05:32+00:00
 url: /2017/06/20/building-visual-regression-testing-application-lexblog/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 5928920916
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2017/06/20/building-visual-regression-testing-application-lexblog-2/
-dsq_needs_sync:
-  - 1
 categories:
   - JavaScript
   - LexBlog

@@ -3,18 +3,9 @@ title: RSS Doesn’t Stand for “Really Should be Standard”, but Maybe It Sho
 author: jared
 type: post
 date: 2018-04-19T00:28:00+00:00
-excerpt: "Like many technical specifications on the web, RSS (which stands for Rich Site Summary or Really Simple Syndication depending on who you talk to) has a confusing history that seems to only get more confusing as time goes on. The format became popular in the late 1990's as the need to standardize information held on websites became a pressing concern with the rise of blogging and dynamic websites. The influx of information and content, all organized in different ways, was exciting, but without a standard way to consume the content, you were left with just a few options:"
 url: /2018/04/18/rss-doesnt-stand-for-really-should-be-standard-but-maybe-it-should/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 6621532860
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2018/04/18/rss-doesnt-stand-for-really-should-be-standard-but-maybe-it-should-2/
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - LexBlog
   - WordPress

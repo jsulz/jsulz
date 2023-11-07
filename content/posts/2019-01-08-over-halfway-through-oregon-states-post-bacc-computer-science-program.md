@@ -6,16 +6,6 @@ date: 2019-01-08T20:39:16+00:00
 url: /2019/01/08/over-halfway-through-oregon-states-post-bacc-computer-science-program/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1546961965
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2019/01/08/over-halfway-through-oregon-states-post-bacc-computer-science-program/
 categories:
   - OSU Post-Bacc
 

@@ -4,16 +4,6 @@ author: jared
 type: post
 date: 2020-02-20T18:01:19+00:00
 url: /2020/02/20/processor-pipelines-and-the-foundation-of-computing-systems/
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1582192879
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/02/20/pipelines-branch-prediction-and-the-foundation-of-computing-systems/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - Georgia Tech OMSCS
   - High Performance Computer Architecture

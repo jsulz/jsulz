@@ -7,12 +7,6 @@ url: /2016/03/09/javascript-javascript-javascript-javascript/
 featured_image: /wp-content/uploads/2016/03/logo_JavaScript.png
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 4650298312
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2016/03/09/javascript-javascript-javascript-javascript-2/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - "What's This!?"
 

@@ -6,14 +6,6 @@ date: 2020-05-03T20:46:44+00:00
 url: /2020/05/03/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/05/03/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1638948910
 categories:
   - Georgia Tech OMSCS
   - High Performance Computer Architecture

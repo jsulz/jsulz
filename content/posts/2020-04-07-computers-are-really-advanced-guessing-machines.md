@@ -4,16 +4,6 @@ author: jared
 type: post
 date: 2020-04-07T21:54:59+00:00
 url: /2020/04/07/computers-are-really-advanced-guessing-machines/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1586271299
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/04/07/computers-are-really-advanced-guessing-machines/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - Artificial Intelligence
   - Georgia Tech OMSCS

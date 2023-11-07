@@ -4,14 +4,6 @@ author: jared
 type: post
 date: 2016-02-17T04:17:53+00:00
 url: /2016/02/16/selenium-python-managing-hundreds-blogs/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-dsq_thread_id:
-  - 4586047686
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2016/02/16/selenium-python-managing-hundreds-blogs-2/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - LexBlog
   - Quality Assurance

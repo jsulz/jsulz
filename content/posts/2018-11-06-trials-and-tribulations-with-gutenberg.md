@@ -4,14 +4,8 @@ author: jared
 type: post
 date: 2018-11-06T20:04:18+00:00
 url: /2018/11/06/trials-and-tribulations-with-gutenberg/
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2018/11/06/trials-and-tribulations-with-gutenberg/
 categories:
   - LexBlog
   - WordPress

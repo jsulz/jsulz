@@ -6,18 +6,6 @@ date: 2016-01-28T09:03:00+00:00
 url: /2016/01/28/ma-bell-fostering-innovation/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 4532447638
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2016/01/28/ma-bell-fostering-innovation-2/
-dsq_needs_sync:
-  - 1
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1639643455
 categories:
   - "What's This!?"
 

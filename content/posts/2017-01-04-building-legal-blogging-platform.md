@@ -6,12 +6,6 @@ date: 2017-01-05T01:22:19+00:00
 url: /2017/01/04/building-legal-blogging-platform/
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-dsq_thread_id:
-  - 5436339307
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2017/01/04/building-legal-blogging-platform-14/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - LexBlog
 

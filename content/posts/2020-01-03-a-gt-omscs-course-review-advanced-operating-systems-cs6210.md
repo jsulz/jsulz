@@ -4,16 +4,8 @@ author: jared
 type: post
 date: 2020-01-03T19:40:46+00:00
 url: /2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/
-LXB_MCT_Immediate_Send:
-  - publish_without_sending
-LXB_MCT_Immediate_Send-publish_without_sending:
-  - 1578051646
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - Georgia Tech OMSCS
 

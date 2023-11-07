@@ -4,16 +4,8 @@ author: jared
 type: post
 date: 2018-10-09T19:20:34+00:00
 url: /2018/10/09/why-study-algorithms/
-dsq_thread_id:
-  - 6959536313
-dsq_needs_sync:
-  - 1
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2018/10/09/why-study-algorithms/
 categories:
   - OSU Post-Bacc
 

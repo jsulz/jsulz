@@ -4,16 +4,8 @@ author: jared
 type: post
 date: 2019-06-25T19:46:06+00:00
 url: /2019/06/25/finishing-one-degree-starting-another/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 lxb_af-post_meta-admin_post_thumbnail_html-position:
   - lxb_af-grid-align-none
-LXB_MCT_Immediate_Send:
-  - complete
-LXB_MCT_Immediate_Send-success_time:
-  - 1561466780
-"https://www.lexblog.com":
-  - https://www.lexblog.com/2019/06/25/finishing-one-degree-starting-another/
 categories:
   - Georgia Tech OMSCS
   - OSU Post-Bacc

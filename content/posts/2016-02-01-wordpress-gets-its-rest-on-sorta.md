@@ -4,14 +4,6 @@ author: jared
 type: post
 date: 2016-02-02T00:22:55+00:00
 url: /2016/02/01/wordpress-gets-its-rest-on-sorta/
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-dsq_thread_id:
-  - 4563253706
-"https://lexblognetwork.wpengine.com":
-  - https://www.lexblog.com/2016/02/01/wordpress-gets-its-rest-on-sorta-2/
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
 categories:
   - WordPress
 
