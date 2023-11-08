@@ -1,4 +1,4 @@
-baseURL = 'https://jsulz.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'jsulz'
 theme = 'beautifulhugo'
