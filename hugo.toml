@@ -2,12 +2,12 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'jsulz'
 theme = 'beautifulhugo'
+DefaultContentLanguage = "en"
 
 [Params]
   subtitle = "Fueled by coffee, code, and spreadsheets"
   mainSections = ["post","posts"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
-  #favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   #commit = false
   rss = true
@@ -20,6 +20,7 @@ theme = 'beautifulhugo'
   #showRelatedPosts = true
   favicon = "img/favicon.ico"
   since = 2016
+  homeTitle = 'jsulz'
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
