@@ -4,6 +4,7 @@ title = 'jsulz'
 theme = 'beautifulhugo'
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
+contentDir = "content"
 
 [Params]
   subtitle = "Fueled by coffee, code, and spreadsheets"
