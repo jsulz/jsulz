@@ -24,6 +24,14 @@
       &nbsp;|&nbsp;&nbsp;{{ .Site.Author.name | safeHTML }}
     {{ end }}
   {{ end }}
+  {{ $taxonomy := "categories" }}
+  {{ with .GetTerms $taxonomy }}
+      &nbsp;|&nbsp; {{ (site.GetPage $taxonomy).LinkTitle }}:
+      {{ range $k, $_ := . -}}
+        {{ if $k }}, {{ end }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{- end }}
+  {{ end }}  
   {{- if .Site.Params.staticman -}}
     &nbsp;|&nbsp;<i class="fas fa-comment"></i>&nbsp;
     {{ $slug := replace .RelPermalink "/" "" }}

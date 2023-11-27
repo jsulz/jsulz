@@ -694,12 +694,18 @@ footer div.disclaimer {
   background-color: rgba(85, 85, 85, 0.5);
   padding:10px;
 }
-.intro-header.big-img .post-meta {
+.intro-header.big-img .post-meta,
+.intro-header.big-img .post-meta a {
   background-color: rgba(85, 85, 85, 0.5);
   padding: 5px;
   text-shadow: 2px 2px 2px #000;
   font-size: 18px;
   color: #FFF;
+}
+
+.post-meta a:hover,
+.post-meta a:active {
+  text-decoration: underline;
 }
 
 @media only screen and (min-width: 768px) {
