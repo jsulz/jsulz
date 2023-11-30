@@ -5,7 +5,6 @@ theme = 'beautifulhugo'
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 contentDir = "content"
-staticDir = "static/img/"
 
 [Params]
 subtitle = "Fueled by coffee, code, and spreadsheets"
