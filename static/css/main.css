@@ -138,6 +138,11 @@ img {
   margin: auto;
   max-width: 100%;
 }
+
+figcaption p {
+  text-align: center;
+  font-size: 14px;
+}
 /*
 @media (prefers-color-scheme: dark) {
 figure:not(.dark) img, img.white {
