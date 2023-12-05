@@ -32,7 +32,7 @@ My favorites are Santa in motion. If you ran into Santa running, how could you n
 
 Santa Snoopy oozes cool. Santa Homer is bright-eyed, full of joy; his best self.
 {{< gallery caption-effect="fade">}}
-{{< figure src="/2023/11/29/kringle-kayak-94-a-santa-collection/img/snoopy-santa.jpg" link="/2023/11/29/kringle-kayak-94-a-santa-collection/img/snoopy-santa.jpg" caption="Snoopy Santa">}}
+{{< figure src="/img/snoopy-santa.jpg" link="/img/snoopy-santa.jpg" caption="Snoopy Santa">}}
 {{< figure link="img/homer-santa.jpg" caption="Homer Santa">}}
 {{< figure link="img/flying-santa.jpg" caption="Flying Santa">}}
 {{< /gallery >}}
