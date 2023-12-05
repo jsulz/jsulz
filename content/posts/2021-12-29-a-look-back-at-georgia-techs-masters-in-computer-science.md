@@ -29,5 +29,5 @@ Now that I&#8217;m firmly in the job search, it feels somewhat anticlimactic, wh
 [4]: https://en.wikipedia.org/wiki/Viterbi_algorithm
 [5]: https://omscs.gatech.edu/cs-6476-computer-vision
 [6]: https://www.ci.woodinville.wa.us/
-[7]: https://www.jsulz.com/2019/12/a-full-time-student/
-[8]: https://www.jsulz.com/2019/06/finishing-one-degree-starting-another/
+[7]: https://www.jsulz.com/2019/12/18/a-full-time-student/
+[8]: https://www.jsulz.com/2019/06/25/finishing-one-degree-starting-another/
