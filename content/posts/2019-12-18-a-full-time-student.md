@@ -4,11 +4,11 @@ author: Jared Sulzdorf
 type: post
 date: 2019-12-18T22:13:31+00:00
 url: /2019/12/18/a-full-time-student/
-bigimg: [{ src: "/img/backpack.jpeg", desc: "Taking a break before diving in"}]
+bigimg: [{ src: "/img/backpack.jpeg", desc: "Taking a break before diving in" }]
 categories:
   - Georgia Tech OMSCS
-
 ---
+
 My first day with LexBlog was sometime in August of 2008. The previous summer I worked at a Hastings (a now, mostly defunct retail chain for movies, books, video games, CDs, and okay coffee), my last retail job. LexBlog, by way of [Colin O&#8217;Keefe][1], provided me a route to take the first steps in my career with a part-time editorial position. I began by working on their content aggregator, LexMonitor, covering the work of the largest law firms in the country.
 
 Fast forward eleven years and LexMonitor is a thing of the past at LexBlog, as am I.
@@ -33,6 +33,6 @@ I still miss LexBlog; the challenges, the people, and the excitement of a small 
 
 As for me? I&#8217;m just looking for the next long walk.
 
- [1]: https://twitter.com/colinokeefe
- [2]: http://www.omscs.gatech.edu/home
- [3]: https://www.amazon.com/Tartine-Bread-Chad-Robertson/dp/0811870413/
+[1]: https://twitter.com/colinokeefe
+[2]: http://www.omscs.gatech.edu/home
+[3]: https://www.amazon.com/Tartine-Bread-Chad-Robertson/dp/0811870413/

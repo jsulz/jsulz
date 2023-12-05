@@ -21,7 +21,7 @@ I started by creating a new template in `layouts/taxonomy/category.html`. I chos
 
 I populated the template with the basic structure that I wanted, taking the current layout of the `index.html` template that shows all of the posts on this site in reverse chronological order and updating the query to use `.Data.Pages` (which are all of the pages for the given Node; in this case all of the pages for the given taxonomy).
 
-Then, I updated the `post_meta.html` partial to include all of the category terms associated with a post so that readers could easily see where the post was organized and go to a category archive page if they were interested. Add in some light styling, testing to make sure that things were working as expected (for instance, this post is organized under the ["Hugo" category](/categories/hugo/)), and we're all done!
+Then, I updated the `post_meta.html` partial to include all of the category terms associated with a post so that readers could easily see where the post was organized and go to a category archive page if they were interested. Add in some light styling, testing to make sure that things were working as expected (for instance, this post is organized under the ["Hugo" category](/category/hugo/)), and we're all done!
 
 Also learned in today's Hugo session:
 

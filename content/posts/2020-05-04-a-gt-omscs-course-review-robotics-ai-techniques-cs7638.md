@@ -29,8 +29,8 @@ My qualms with the lectures aside, this was probably one of the most fun college
 
 [1]: https://www.jsulz.com/2020/05/03/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/
 [2]: https://en.wikipedia.org/wiki/Sebastian_Thrun
-[3]: https://www.jsulz.com/2020/01/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/
-[4]: https://www.jsulz.com/2020/01/a-gt-omscs-course-review-advanced-operating-systems-cs6210/
+[3]: https://www.jsulz.com/2020/01/02/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/
+[4]: https://www.jsulz.com/2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/
 [5]: https://en.wikipedia.org/wiki/Kalman_filter
 [6]: https://en.wikipedia.org/wiki/Particle_filter
 [7]: https://www.youtube.com/watch?v=ySN5Wnu88nE

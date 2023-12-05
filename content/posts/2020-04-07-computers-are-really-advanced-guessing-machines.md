@@ -7,9 +7,9 @@ url: /2020/04/07/computers-are-really-advanced-guessing-machines/
 categories:
   - Artificial Intelligence
   - Georgia Tech OMSCS
-  - 'Robotics: AI Techniques'
-
+  - "Robotics: AI Techniques"
 ---
+
 One of my favorite (personal) sayings about computers is that they are highly advanced guessing machines. You can see this play out practically with things like branch prediction, where a processor must guess the path of a logical branch based on the history of that branch. This heuristic is analogous to how many humans guess; we use history as a predictor for future events. While [HPCA][1] has many similar techniques, this scenario is even more common in the other [Georgia Tech][2] course that I&#8217;m taking this semester, Robotics: AI Techniques.
 
 Artificial intelligence is the pinnacle of guessing as it employs practical techniques (like search algorithms) and combines them with statistical tricks based primarily on probability density ([usually Gaussian][3]) distributions. The mathematics behind these distributions, in my opinion, can often seek to confuse and distract from what is actually a delightfully simple concept.
@@ -22,8 +22,8 @@ Unfortunately, we have to start with the math to provide some concrete foundatio
 
 In this simple chart we see two fundamental concepts:
 
-  * A discrete set of scores represented by a histogram
-  * A continuous line overlaid on top of this histogram in the shape of a bell curve
+- A discrete set of scores represented by a histogram
+- A continuous line overlaid on top of this histogram in the shape of a bell curve
 
 The bell curve is something we are all familiar with, but may not have much mathematical intuition around. The peak of a bell curve represents the mean (average) value. In terms of probability, we can think of this as the most likely value to be selected were we to randomly choose a score from our set of scores. If we look at the curve in terms of these scores, we can see the majority of scores are clustered around this peak. The density of these scores around that peak (meaning that the peak is higher and the bell is skinnier) represents a higher density or, lower deviation from the mean. This is the second component of the bell curve, the standard deviation, or the amount of variance in the values. The wider the curve, the lower the variance (and lower the standard deviation), while a more broad curve represents more variance (and a higher standard deviation).
 
@@ -33,10 +33,10 @@ It&#8217;s important to recognize in this moment that, just like when a processo
 
 This is really no different from how we treat guessing in our daily lives, it&#8217;s just that we base our guesses on intuition and thousands of hours of experience as opposed to mathematical models and information stored on a hard drive. Every step I take is a game of viewing the world around me, moving, sensing, updating my belief that I am, in fact, in a new location, moving again, and repeating this set of actions. This model is represented in artificial intelligence techniques like [Kalman][4] or [particle filters][5] where a machine:
 
-  * Creates a view of the environment
-  * Takes an action
-  * Takes a measurement of the environment
-  * Updates its view of the environment based on the combination of the action and measurement
+- Creates a view of the environment
+- Takes an action
+- Takes a measurement of the environment
+- Updates its view of the environment based on the combination of the action and measurement
 
 In many ways, the work we do with artificial intelligence is to formalize the actions that humans take for granted. This is done through mathematical and algorithmic models, but the end result is very similar.
 
@@ -44,19 +44,19 @@ This is more apparent (and less mathematically rigorous) in search algorithms. T
 
 Like a machine, when confronted with this situation humans may try several different guesses in the hopes one of them pans out:
 
-  1. Walking forward along a path until you reach the park or encounter an obstacle and then backtracking ([depth-first search][6])
-  2. Walking back and forth between all possible paths forward, rejecting paths as they encounter obstacles and expanding new paths that appear ([breadth-first search][7])
-  3. Walking forward along likely paths, using the general knowledge of how far away the park is so that you can reject certain paths earlier so long as they&#8217;re not blocked ([A* searc][8]h)
+1. Walking forward along a path until you reach the park or encounter an obstacle and then backtracking ([depth-first search][6])
+2. Walking back and forth between all possible paths forward, rejecting paths as they encounter obstacles and expanding new paths that appear ([breadth-first search][7])
+3. Walking forward along likely paths, using the general knowledge of how far away the park is so that you can reject certain paths earlier so long as they&#8217;re not blocked ([A\* searc][8]h)
 
 The third heuristic is the choice that is typically used in most software. While it presumes some knowledge and incurs some overheads (primarily space complexity as it requires you initialize a map of the environment in a way the other approaches do not), it typically provides the most optimal solution faster.
 
 All of these concepts certainly merit more discussion than what is given here, but it&#8217;s vital to understand and accept the notion that computers are no more omniscient or omnipotent than humans (which is to say not at all). They may perform rigorous calculations in ways that humans cannot, but like us, they are just (really) advanced guessing machines.
 
- [1]: https://www.jsulz.com/category/high-performance-computing-architecture/
- [2]: https://www.jsulz.com/category/georgia-tech-omscs/
- [3]: https://en.wikipedia.org/wiki/Normal_distribution
- [4]: https://en.wikipedia.org/wiki/Kalman_filter
- [5]: https://en.wikipedia.org/wiki/Particle_filter
- [6]: https://en.wikipedia.org/wiki/Depth-first_search
- [7]: https://en.wikipedia.org/wiki/Breadth-first_search
- [8]: https://en.wikipedia.org/wiki/A*_search_algorithm
+[1]: https://www.jsulz.com/category/high-performance-computer-architecture/
+[2]: https://www.jsulz.com/category/georgia-tech-omscs/
+[3]: https://en.wikipedia.org/wiki/Normal_distribution
+[4]: https://en.wikipedia.org/wiki/Kalman_filter
+[5]: https://en.wikipedia.org/wiki/Particle_filter
+[6]: https://en.wikipedia.org/wiki/Depth-first_search
+[7]: https://en.wikipedia.org/wiki/Breadth-first_search
+[8]: https://en.wikipedia.org/wiki/A*_search_algorithm

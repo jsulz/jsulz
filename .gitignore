@@ -30,3 +30,6 @@ dist
 
 # Mac File System File...utterly useless to anyone but me.
 .DS_Store
+
+# VS Code
+.vscode

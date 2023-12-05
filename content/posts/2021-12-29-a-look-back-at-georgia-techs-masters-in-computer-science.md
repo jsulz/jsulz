@@ -7,6 +7,7 @@ url: /2021/12/29/a-look-back-at-georgia-techs-masters-in-computer-science/
 bigimg: [{ src: "/img/snowy-woodinville.jpg", desc: "Snowy Woodinville" }]
 categories:
   - "What's This!?"
+  - Georgia Tech OMSCS
 ---
 
 I&#8217;m still getting back into the hang of writing for fun after the last few semesters at Georgia Tech wrung me dry with paper after paper painstakingly filled with [Matplotlib charts][1] and [LaTeX][2]. The first two semesters were more of a programmer&#8217;s dream of building FTP servers, implementing MapReduce with gRPC, diving deeply into architecture, and dipping my toe into artificial intelligence.
