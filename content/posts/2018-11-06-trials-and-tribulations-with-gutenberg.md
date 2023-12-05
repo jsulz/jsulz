@@ -7,17 +7,17 @@ url: /2018/11/06/trials-and-tribulations-with-gutenberg/
 categories:
   - LexBlog
   - WordPress
-
 ---
+
 I should note that I continue to remain positive about the direction of the [Gutenberg project][1] (the new WordPress editor, coming to you as of WordPress 5.0). My feelings on this are numerous and expansive, but the long and short of it is that I believe WordPress core needs a major shakeup to help the community (re)develop focus and draw in engaged and effective technical participants. Gutenberg represents a wonderful opportunity to do that as it brings a new paradigm to the core editor (and likely elsewhere as the foundational technology expands into other areas of site management) and has the potential to draw in a new wave of web developers.
 
-That said, the introduction of Gutenberg into core has been an interesting thing to watch. From afar, [the concerns of the Accessibility Team][2] seem to clearly show the divisions between WordPress as an open source project ([WordPress.org][3]) and as a commercial one ([WordPress.com][4]): https://make.wordpress.org/accessibility/2018/10/29/report-on-the-accessibility-status-of-gutenberg/
+That said, the introduction of Gutenberg into core has been an interesting thing to watch. From afar, [the concerns of the Accessibility Team][2] seem to clearly show the divisions between WordPress as an open source project ([WordPress.org][3]) and as a commercial one ([WordPress.com][4]). Here is [a report from the WordPress.org team](https://make.wordpress.org/accessibility/2018/10/29/report-on-the-accessibility-status-of-gutenberg/) on the current state of accessibility in Gutenberg.
 
 <!--more-->
 
 The report above is not a positive one. It mirrors the feelings of just about [every comment thread on WP Tavern about the new editor][5]: Gutenberg is not ready for the 32% of the internet that WordPress supports.
 
-From close up, as LexBlog works to ensure when we make Gutenberg available to our clients, our concerns are more reflective of the WordPress project as a whole. The documentation of the various APIs and entry points to working with Gutenberg is lacking. The ways that the new editor interacts with foundational parts of WordPress are vastly different from the old editor, and we&#8217;ve run into all three flavors of compatibility that Daniel Bachhuber articulates in his own post about Gutenberg: https://danielbachhuber.com/2018/10/13/three-flavors-of-gutenberg-backwards-compatibility/
+From close up, as LexBlog works to ensure when we make Gutenberg available to our clients, our concerns are more reflective of the WordPress project as a whole. The documentation of the various APIs and entry points to working with Gutenberg is lacking. The ways that the new editor interacts with foundational parts of WordPress are vastly different from the old editor, and we&#8217;ve run into all three flavors of compatibility that [Daniel Bachhuber articulates in his own post about Gutenberg](https://danielbachhuber.com/2018/10/13/three-flavors-of-gutenberg-backwards-compatibility/).
 
 And for me personally, this is all viewed through the lens of LexBlog&#8217;s publishers working inside this new publishing experience.
 
@@ -29,8 +29,8 @@ This is a hard and complex issue. I don&#8217;t have an answer. It doesn&#8217;t
 
 That doesn&#8217;t mean it feels like a good thing right now.
 
- [1]: https://wordpress.org/gutenberg/
- [2]: https://wptavern.com/wordpress-accessibility-team-delivers-sobering-assessment-of-gutenberg-we-have-to-draw-a-line
- [3]: https://wordpress.org/
- [4]: https://wordpress.com/
- [5]: https://wptavern.com/tag/gutenberg
+[1]: https://wordpress.org/gutenberg/
+[2]: https://wptavern.com/wordpress-accessibility-team-delivers-sobering-assessment-of-gutenberg-we-have-to-draw-a-line
+[3]: https://wordpress.org/
+[4]: https://wordpress.com/
+[5]: https://wptavern.com/tag/gutenberg
