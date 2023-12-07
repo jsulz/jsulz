@@ -12,6 +12,8 @@ The Decembers of my childhood were brutally cold. We lived in a converted genera
 
 Before our furnace was installed (sometime in my middle school era), we warmed our house with the three wood-burning stoves scattered about the house. I remember my mom frantically stoking the fires before we went to bed. No matter; our beds would be frozen against the walls every morning. Winter vacation during the school year was less a vacation and more an exercise in fighting off cabin fever while chopping wood.
 
+<!--more-->
+
 As an adult, my relationship with this time of year is much less fraught. The Puget Sound is delightfully temperate. Below freezing temperatures are reserved for the depths of the night, and rare even then. Instead of fighting off the weather, I get to bask in the glory of the Christmas season. The lights, the food (the food!!), the omnipresent sense of tradition and history. It's a special time of year.
 
 Every year since we've moved out to Woodinville we've covered our house in incandescent lights that evoke memories of gingerbread houses.

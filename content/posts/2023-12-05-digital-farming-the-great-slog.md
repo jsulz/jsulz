@@ -3,8 +3,9 @@ author: Jared Sulzdorf
 type: post
 title: "Digital Farming: The Great Slog"
 date: 2023-12-05T09:51:17-08:00
-url: 2023/12/05-digital-farming-the-great-slog
-categories: "Hugo"
+url: /2023/12/05-digital-farming-the-great-slog
+categories:
+  - "Hugo"
 ---
 
 If you use a computer, you are a digital farmer. Maybe you are tending to your garden of emails. Perhaps you are pruning your digital catalog of photos. If you're particularly advanced, you might be moving around old flower beds as you refactor a codebase.
@@ -13,7 +14,7 @@ Whatever it may be, you are now the proud manager of a digital landscape. It doe
 
 My gardening today consisted of a variety of small tasks around the blog.
 
-<!-- more -->
+<!--more-->
 
 A few months ago [I migrated this site from WordPress](https://www.jsulz.com/2023/11/11/why-hugo-why-not-wordpress/), the only home it's known, to [Hugo, a delightful static site generator written in Go](https://gohugo.io/). Since then, I've been chipping away at a small task list for the site, including adding category archive pages that more closely mirrored the WordPress taxonomy archive pages, updating some minor bits of metadata, and updating styling as needed.
 
