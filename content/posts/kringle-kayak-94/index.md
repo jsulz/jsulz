@@ -50,4 +50,5 @@ Learned in today's Hugo session:
 
 - Writing posts in Markdown is nice, but so is making sure my writing is spell-checked! My writing is taking place in Visual Studio Code, so I added a new extension ([Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)) to make sure I don't embarrass myself too much.
 - The theme I'm using ships with `hugo-easy-gallery` ([repo here](https://github.com/liwenyip/hugo-easy-gallery/)) which I've used in today's post, but the project itself is no longer maintained. Might need to revisit this, especially since I can't seem to get the images to load when clicking on them at the moment.
+  - Update: This is "fixed" now, but I'm having to duplicate the image in the `/img` directory as well as create a nested directory inside the `/posts/` directory so that I can make these galleries function. This is just a short-term fix.
 - Related, I need to work on how images are rendered on the site. Both so that readers don't have to load mammoth files for these posts and so the ergonomics are better for content management.
