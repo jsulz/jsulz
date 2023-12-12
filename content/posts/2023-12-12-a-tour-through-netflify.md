@@ -4,7 +4,6 @@ type: post
 title: "Making the Most of My Netlify Setup"
 date: 2023-12-12T10:46:48-08:00
 url: /2023/12/12/making-the-most-of-my-netlify-setup
-draft: true
 categories:
   - "Hugo"
   - "Netlify"
@@ -26,4 +25,6 @@ I could do this by adding the `<script>` tags directly to the source, but Netlif
 
 Next, Google Search Console had identified a few URLs that were no longer indexed, likely a result of changing permalink structure as I migrated content (even though I took care to not futz with too much). Fortunately, [Netlify provides a simple way to manage redirects](https://docs.netlify.com/routing/redirects/) through a `_redirects` file that you can add to the top-level directory in your site. After going through Google Search Console and finding URLs that were broken, I added the `_redirects` file with the proper rules and deployed. Here, I ran into a bit of a problem as Netlify expects the `_redirects` file to be in your [`publish` directory](https://docs.netlify.com/configure-builds/overview/#definitions), which for me is a directory that is in my `.gitignore` as I don't want to version it. So instead, I added the [redirect rules to the `netlify.toml` file](https://docs.netlify.com/routing/redirects/#syntax-for-the-netlify-configuration-file) and I was on my way.
 
-The boring and mundane work out of the way, I shifted gears to adding Netlify's Lighthouse integration that generates a Lighthouse report after every build.
+The boring and mundane work out of the way, I shifted gears to adding [Netlify's Lighthouse integration that generates a Lighthouse report after every build](https://www.netlify.com/integrations/lighthouse/). My current scores are pretty low given that I'm running a static site, so I have some optimizations ahead of me!
+
+Overall, gotta say that Netlify really impressed me in this round. Everything that I wanted to do, I could do with ease. Great product experience.
