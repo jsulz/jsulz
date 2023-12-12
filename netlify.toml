@@ -1,0 +1,149 @@
+# REDIRECTIONS
+# Post Redirects
+[[redirects]]
+from = "/2016/02/selenium-python-managing-hundreds-blogs/"
+to = "/2016/02/16/selenium-python-managing-hundreds-blogs/"
+
+[[redirects]]
+from = "/2019/06/finishing-one-degree-starting-another/"
+to = "/2019/06/25/finishing-one-degree-starting-another/"
+
+[[redirects]]
+from = "/2019/08/working-remotely-in-anchorage-alaska/"
+to = "/2019/08/27/working-remotely-in-anchorage-alaska/"
+
+[[redirects]]
+from = "/2020/05/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/"
+to = "/2020/05/03/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/"
+
+[[redirects]]
+from = "/2020/01/a-gt-omscs-course-review-advanced-operating-systems-cs6210"
+to = "/2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/"
+
+[[redirects]]
+from = "/2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/"
+to = "/2016/07/22/game-thrones-spoiler-blocker-exercise-building-chrome-extensions/"
+
+[[redirects]]
+from = "/2020/01/a-gt-omscs-course-review-advanced-operating-systems-cs6210/"
+to = "/2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/"
+
+[[redirects]]
+from = "/2018/10/why-study-algorithms/"
+to = "/2018/10/09/why-study-algorithms/"
+
+[[redirects]]
+from = "/2020/05/a-gt-omscs-course-review-robotics-ai-techniques-cs7638"
+to = "/2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/"
+
+[[redirects]]
+from = "/2020/01/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/"
+to = "/2020/01/02/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/"
+
+[[redirects]]
+from = "/2019/04/overcoming-the-trough-of-sorrow/"
+to = "/2019/04/15/overcoming-the-trough-of-sorrow/"
+
+[[redirects]]
+from = "/2020/05/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/"
+to = "/2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/"
+
+[[redirects]]
+from = "/2020/04/the-business-of-bits/"
+to = "/2020/04/23/the-business-of-bits/"
+
+[[redirects]]
+from = "/2020/04/computers-are-really-advanced-guessing-machines/"
+to = "/2020/04/07/computers-are-really-advanced-guessing-machines/"
+
+[[redirects]]
+from = "/2020/05/how-i-got-through-oregon-state-universitys-online-computer-science-post-bacc/"
+to = "/2020/05/14/how-i-got-through-oregon-state-universitys-online-computer-science-post-bacc/"
+
+[[redirects]]
+from = "/2021/12/a-look-back-at-georgia-techs-masters-in-computer-science/"
+to = "/2021/12/29/a-look-back-at-georgia-techs-masters-in-computer-science/"
+
+[[redirects]]
+from = "/2020/03/not-everything-is-about-computers-sometimes-its-about-bread/"
+to = "/2020/03/19/not-everything-is-about-computers-sometimes-its-about-bread/"
+
+[[redirects]]
+from = "/2019/01/over-halfway-through-oregon-states-post-bacc-computer-science-program/"
+to = "/2019/01/08/over-halfway-through-oregon-states-post-bacc-computer-science-program/"
+
+[[redirects]]
+from = "/2021/12/cracking-my-favorite-products/"
+to = "/2021/12/11/cracking-my-favorite-products/"
+
+[[redirects]]
+from = "/2018/09/lexbloggers-summer-review/"
+to = "/2018/09/18/lexbloggers-summer-review/"
+
+[[redirects]]
+from = "/2018/01/make-technology-humans/"
+to = "/2018/01/12/make-technology-humans/"
+
+
+# categories
+[[redirects]]
+from = "/categories/technology/"
+to = "/category/technology"
+
+[[redirects]]
+from = "/categories/robotics-ai-techniques/"
+to = "/category/robotics-ai-techniques/"
+
+[[redirects]]
+from = "/categories/artificial-intelligence/"
+to = "/category/artificial-intelligence/"
+
+[[redirects]]
+from = "/categories/hugo/"
+to = "/category/hugo/"
+
+[[redirects]]
+from = "/categories/wordpress/"
+to = "/category/wordpress/"
+
+[[redirects]]
+from = "/categories/whats-this/"
+to = "/category/whats-this/"
+
+[[redirects]]
+from = "/categories/gardening/"
+to = "/category/gardening/"
+
+[[redirects]]
+from = "/category/high-performance-computing-architecture/"
+to = "/category/high-performance-computer-architecture/"
+
+# Old feed URLs
+[[redirects]]
+from = "/category/high-performance-computer-architecture/feed/"
+to = "/index.xml"
+
+[[redirects]]
+from = "/author/jared/feed/"
+to = "/index.xml"
+
+[[redirects]]
+from = "/category/high-performance-computer-architecture/feed/"
+to = "/index.xml"
+
+[[redirects]]
+from = "/category/georgia-tech-omscs/feed/"
+to = "/index.xml"
+
+[[redirects]]
+from = "/category/osu-post-bacc/feed/"
+to = "/2017/06/building-visual-regression-testing-application-lexblog/feed/"
+
+# Old Author URLs
+[[redirects]]
+from = "/author/angelo/"
+to = "/"
+
+[[redirects]]
+from = "/author/scotttest/"
+to = "/"
