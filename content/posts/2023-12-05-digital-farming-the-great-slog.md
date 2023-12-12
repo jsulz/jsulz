@@ -3,7 +3,7 @@ author: Jared Sulzdorf
 type: post
 title: "Digital Farming: The Great Slog"
 date: 2023-12-05T09:51:17-08:00
-url: /2023/12/05-digital-farming-the-great-slog
+url: /2023/12/05/digital-farming-the-great-slog
 categories:
   - "Hugo"
 ---

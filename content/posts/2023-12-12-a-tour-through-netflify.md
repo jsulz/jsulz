@@ -3,7 +3,7 @@ author: Jared Sulzdorf
 type: post
 title: "Making the Most of My Netlify Setup"
 date: 2023-12-12T10:46:48-08:00
-url: 2023/12/12/making-the-most-of-my-netlify-setup
+url: /2023/12/12/making-the-most-of-my-netlify-setup
 draft: true
 categories:
   - "Hugo"
@@ -23,3 +23,5 @@ This blog is on [Netlify's free tier](https://www.netlify.com/pricing/#core-pric
 While there are a variety of add-ons and integrations, today, I just wanted to start doing some rather simple stuff. To start with, I haven't had Google Analytics on the site in a fairly long time, and while I'm not particularly interetsted in the traffic to the site, after migrating from WordPress to Hugo, I felt a desire to make sure that the site was still being surfaced in search engines. Google Search Console and Google Analytics provide good avenues for those insights, and while I can set up Google Search Console without tinkering with the blog, Google Analytics requires that I inject some JavaScript.
 
 I could do this by adding the `<script>` tags directly to the source, but Netlify offers a tool called snippet injection, that runs as a post-processing step to your deploy and can put arbitrary JavaScript snippets in the `<head>` or at the end of the `<body>` tags of your site. After setting up Google Analytics, this was incredibly easy. Well done, Netlify.
+
+Next, Google Search Console had identified a few URLs that were no longer indexed, likely a result of changing permalink structure as I migrated content (even though I took care to not futz with too much). Fortunately, Netlify provides a simple way to manage redirects through a `_redirects` file that you can add to the top-level directory in your site.
