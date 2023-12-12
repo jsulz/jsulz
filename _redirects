@@ -1,0 +1,50 @@
+# Redirects from what the browser requests to what Netlify serves
+
+# Posts
+
+/2021/12/cracking-my-favorite-products/ /2021/12/11/cracking-my-favorite-products/
+/2019/01/over-halfway-through-oregon-states-post-bacc-computer-science-program/ /2019/01/08/over-halfway-through-oregon-states-post-bacc-computer-science-program/
+/2020/03/not-everything-is-about-computers-sometimes-its-about-bread/ /2020/03/19/not-everything-is-about-computers-sometimes-its-about-bread/
+/2021/12/a-look-back-at-georgia-techs-masters-in-computer-science/ /2021/12/29/a-look-back-at-georgia-techs-masters-in-computer-science/
+/2020/05/how-i-got-through-oregon-state-universitys-online-computer-science-post-bacc/ /2020/05/14/how-i-got-through-oregon-state-universitys-online-computer-science-post-bacc/
+/2020/04/computers-are-really-advanced-guessing-machines/ /2020/04/07/computers-are-really-advanced-guessing-machines/
+/2020/04/the-business-of-bits/ /2020/04/23/the-business-of-bits/
+/2020/05/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/ /2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/
+/2019/04/overcoming-the-trough-of-sorrow/ /2019/04/15/overcoming-the-trough-of-sorrow/
+/2020/01/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/ /2020/01/02/a-gt-omscs-course-review-graduate-introduction-to-operating-systems-cs6200/
+/2020/05/a-gt-omscs-course-review-robotics-ai-techniques-cs7638 /2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/
+/2018/10/why-study-algorithms/ /2018/10/09/why-study-algorithms/
+/2020/01/a-gt-omscs-course-review-advanced-operating-systems-cs6210/ /2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/
+/2016/07/game-thrones-spoiler-blocker-exercise-building-chrome-extensions/ /2016/07/22/game-thrones-spoiler-blocker-exercise-building-chrome-extensions/
+/2020/01/a-gt-omscs-course-review-advanced-operating-systems-cs6210 /2020/01/03/a-gt-omscs-course-review-advanced-operating-systems-cs6210/
+/2020/05/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/ /2020/05/03/a-gt-omscs-course-review-high-performance-computer-architecture-cs6290/
+/2019/08/working-remotely-in-anchorage-alaska/ /2019/08/27/working-remotely-in-anchorage-alaska/
+/2019/06/finishing-one-degree-starting-another/ /2019/06/25/finishing-one-degree-starting-another/
+/2016/02/selenium-python-managing-hundreds-blogs/ /2016/02/16/selenium-python-managing-hundreds-blogs/
+/2018/09/lexbloggers-summer-review/ /2018/09/18/lexbloggers-summer-review/
+/2018/01/make-technology-humans/ /2018/01/12/make-technology-humans/
+
+# categories
+
+/categories/technology/ /category/technology/
+/categories/robotics-ai-techniques/ /category/robotics-ai-techniques/
+/categories/artificial-intelligence/ /category/artificial-intelligence/
+/categories/hugo/ /category/hugo/
+/categories/wordpress/ /category/wordpress/
+/categories/whats-this/ /category/whats-this/
+/categories/gardening/ /category/gardening/
+/category/high-performance-computing-architecture/ /category/high-performance-computer-architecture/
+
+# Old feed URLs
+
+/category/high-performance-computer-architecture/feed/ /index.xml
+/author/jared/feed/ /index.xml
+/category/high-performance-computer-architecture/feed/ /index.xml
+/category/georgia-tech-omscs/feed/ /index.xml
+/category/osu-post-bacc/feed/ /index.xml
+/2017/06/building-visual-regression-testing-application-lexblog/feed/ /index.xml
+
+# Old Author URLs
+
+/author/angelo/ /
+/author/scotttest/ /
