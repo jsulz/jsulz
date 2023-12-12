@@ -1,0 +1,25 @@
+---
+author: Jared Sulzdorf
+type: post
+title: "Making the Most of My Netlify Setup"
+date: 2023-12-12T10:46:48-08:00
+url: 2023/12/12/making-the-most-of-my-netlify-setup
+draft: true
+categories:
+  - "Hugo"
+  - "Netlify"
+---
+
+Along with learning about Hugo, I'm also digging through Netlify as a customer for the first time. This isn't my first time examining their offering. As a product manager at [Pantheon](https://pantheon.io/) working on the [Front End Sites product](https://pantheon.io/features/decoupled-cms), they were one of the platforms I looked to to shape the work we did, especially for static sites.
+
+In November 2023, I left Pantheon and, as I did so, took my blog off WordPress for good. Over the years, this content has lived on [WP Engine](https://wpengine.com/), [GoDaddy](https://www.godaddy.com/), and Pantheon. Now that I was venturing off WordPress platforms, it was both freeing and nerve-wracking. What was the port for this little boat? I knew I wanted to shift to a static site generator, and so [Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) were top of mind. Ultimately, Netlify won out as I think their product caters to smaller hobbyist sites, like this one.
+
+<!--more-->
+
+Now that I've been over here for a few weeks, I wanted to stretch my legs a bit and take advantage of running this site through Netlify's platform. [Netlify has been around since 2014](https://en.wikipedia.org/wiki/Netlify), and has carved out a nice space for itself amongst the [Jamstack](https://jamstack.org/) hosts. Like Vercel, it provides a seamless integration to your Git provider so you can commit to a branch and sit back as someone else manages building and deploying the final asset so long as your framework is one of the many that they support. To-date, that's really all I've asked of Netlify, and it's done it swimmingly and without complaint.
+
+This blog is on [Netlify's free tier](https://www.netlify.com/pricing/#core-pricing-table), giving it access to 100GB bandwidth and 300 build minutes a month (the only resources this site will consume). Overall, I think Vercel's platform is more polished and their free tier is probably the better deal, but I wanted an excuse to host something on Netlify and learn these ropes, and this site represented a low-cost way to do just that. Additionally, if I want to scale up the site in any way, Netlify's pricing structure is far more flexible than Vercel's, which gave me some peace of mind.
+
+While there are a variety of add-ons and integrations, today, I just wanted to start doing some rather simple stuff. To start with, I haven't had Google Analytics on the site in a fairly long time, and while I'm not particularly interetsted in the traffic to the site, after migrating from WordPress to Hugo, I felt a desire to make sure that the site was still being surfaced in search engines. Google Search Console and Google Analytics provide good avenues for those insights, and while I can set up Google Search Console without tinkering with the blog, Google Analytics requires that I inject some JavaScript.
+
+I could do this by adding the `<script>` tags directly to the source, but Netlify offers a tool called snippet injection, that runs as a post-processing step to your deploy and can put arbitrary JavaScript snippets in the `<head>` or at the end of the `<body>` tags of your site. After setting up Google Analytics, this was incredibly easy. Well done, Netlify.
