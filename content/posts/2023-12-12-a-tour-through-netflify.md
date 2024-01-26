@@ -9,7 +9,7 @@ categories:
   - "Netlify"
 ---
 
-Along with learning about Hugo, I'm also digging through Netlify as a customer for the first time. This isn't my first time examining their offering. As a product manager at [Pantheon](https://pantheon.io/) working on the [Front End Sites product](https://pantheon.io/features/decoupled-cms), they were one of the platforms I hoped we would one day compete with.
+Along with learning about Hugo, I'm also digging through Netlify as a customer for the first time. This isn't my first time examining their offering. As a product manager at [Pantheon](https://pantheon.io/) working on the [Front End Sites product](https://pantheon.io/features/decoupled-cms), they were a platform that was definitely on my radar.
 
 In November 2023, I left Pantheon and, as I did so, took my blog off WordPress for good. Over the years, this content has lived on [WP Engine](https://wpengine.com/), [GoDaddy](https://www.godaddy.com/), and Pantheon. Now that I was venturing off WordPress platforms, it was both freeing and nerve-wracking. What was the port for this little boat? I knew I wanted to shift to a static site generator, and so [Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) were top of mind. Ultimately, Netlify won out as I think their product caters to smaller hobbyist sites, like this one.
 
