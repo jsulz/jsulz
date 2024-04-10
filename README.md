@@ -1,12 +1,12 @@
 # jsulz
 
-This is my personal blog!
+This is [my personal blog](https://www.jsulz.com/)!
 
 A few things to note: 
 1. This is just a fun place for me to write when I get the chance. If you're not into artificial intelligence, distributed applications, web development, or random philosophical musings on product management, this probably isn't your cup of tea.
 2. I don't write a lot.
 3. I want to write more.
-4. Sometimes I write about bread.
+4. Sometimes [I write about bread](https://www.jsulz.com/2020/03/19/not-everything-is-about-computers-sometimes-its-about-bread/).
 
 The site is: 
 1. Built on [Netlify](https://www.netlify.com/) (thanks Netlify!)
