@@ -11,3 +11,5 @@ categories: ""
 * Removed Katex
 * Added async/defer attribute https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
 * Added display=swap to Google Fonts https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_source=lighthouse&utm_medium=node
+* Updated maximum scale https://dequeuniversity.com/rules/axe/4.4/meta-viewport
+* Updated post-meta to have better contrast
