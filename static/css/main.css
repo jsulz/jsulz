@@ -493,7 +493,7 @@ footer div.disclaimer {
 .post-preview .post-meta,
 .post-heading .post-meta,
 .page-meta {
-  color: #808080;
+  color: black;
   font-size: 14px;
   font-style: italic;
   margin: 0 0 10px;
@@ -504,7 +504,7 @@ footer div.disclaimer {
 .post-preview .post-meta a,
 .post-heading .post-meta a,
 .page-meta a {
-  color: #404040;
+  color: black;
   text-decoration: none;
 }
 .post-preview .post-entry {
