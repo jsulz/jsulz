@@ -12,6 +12,6 @@ lxb_af-post_meta-lxb_af_page_template-layout:
 ---
 I&#8217;m a product manager, constantly searching for new ways to play around with 1&#8217;s and 0&#8217;s. I love coffee, food, computers, the great outdoors, and my wife (and certainly not in that order).
 
-At the moment I&#8217;m looking for work, but I also run, play around with computers, and bake bread.
+Away from work I enjoy running, tinkering, and baking bread.
 
 {{< figure src="/img/bread.jpeg" >}}
