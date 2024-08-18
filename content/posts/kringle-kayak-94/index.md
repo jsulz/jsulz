@@ -26,24 +26,18 @@ My mother-in-law gifted us her Santa ornament collection during the last years i
 
 My favorites are Santa in motion. If you ran into Santa running, how could you not smile and wave back? Who is a better backcountry companion than Santa Claus? I'm not a biker, but Santa on a bike is inspirational.
 
-{{< gallery caption-effect="fade">}}
 {{< figure link="img/backpacking-santa.jpg" caption="Backpacking Santa">}}
 {{< figure link="img/biking-santa.jpg" caption="Biking Santa">}}
 {{< figure link="img/jogging-santa.jpg" caption="Jogging Santa">}}
-{{< /gallery >}}
 
 Santa Snoopy oozes cool. Santa Homer is bright-eyed, full of joy; his best self.
-{{< gallery caption-effect="fade">}}
 {{< figure link="img/snoopy-santa.jpg" caption="Snoopy Santa">}}
 {{< figure link="img/homer-santa.jpg" caption="Homer Santa">}}
 {{< figure link="img/flying-santa.jpg" caption="Flying Santa">}}
-{{< /gallery >}}
 
 The man loves garlic. Smart. And wrestling? More suspect.
-{{< gallery caption-effect="fade" caption="">}}
 {{< figure link="img/garlic-santa.jpg" caption="Garlic Santa">}}
 {{< figure link="img/wrestling-santa.jpg" caption="Wrestling Santa">}}
-{{< /gallery >}}
 
 Moraine also loves Santa.
 {{< figure src="/img/moraine.jpeg" caption="Our little monster">}}

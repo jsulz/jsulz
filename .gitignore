@@ -33,3 +33,8 @@ dist
 
 # VS Code
 .vscode
+
+node_modules/
+public/
+resources/
+.hugo_build.lock

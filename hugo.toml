@@ -1,7 +1,4 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'jsulz'
-theme = 'beautifulhugo'
+baseURL = "/"
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 contentDir = "content"
@@ -9,40 +6,29 @@ contentDir = "content"
 [Params]
 subtitle = "Fueled by coffee, code, and spreadsheets"
 mainSections = ["post", "posts"]
-#logo = "img/avatar-icon.png" # Expecting square dimensions
-dateFormat = "January 2, 2006"
-#commit = false
-rss = true
-#comments = true
-#readingTime = true
-#wordCount = true
-useHLJS = true
-#socialShare = true
-#delayDisqus = true
-#showRelatedPosts = true
-favicon = "img/favicon.ico"
-since = 2016
-homeTitle = 'jsulz'
 
-[Author]
-# Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-name = "Jared Sulzdorf"
-website = "/"
-email = "j.sulzdorf@gmail.com"
-github = "jsulz"
-linkedin = "jaredsulzdorf"
+[module]
+  [module.hugoVersion]
+    extended = false
+    min      = "0.112.0"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/watching/hugo_stats.json"
 
-
-[[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 1
-
-[[menu.main]]
-name = "About"
-url = "/about/"
-weight = 2
-
-[permalinks]
-[permalinks.term]
-categories = '/category/:slug/'
+[build]
+  writeStats = true
+  [[build.cachebusters]]
+    source = "assets/watching/hugo_stats\\.json"
+    target = "styles\\.css"
+  [[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(js|ts|jsx|tsx)"
+    target = "js"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(.*)$"
+    target = "$1"

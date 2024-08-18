@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <article class="prose lg:prose-xl">
+    <h1>Tailwind 3 Hugo Starter</h1>
+
+    <h2 class="text-4xl">Testing Tailwind 3 Features</h2>
+    <div>
+      <button class="bg-[green] p-4">Share on Twitter</button>
+    </div>
+
+    <h2 class="text-4xl">Markdowns: {{ .Title }}</h2>
+        {{ with .Content }}
+          <div class="well">
+            {{.}}
+          </div>
+        {{ end }}
+  </article>
+        <div class="posts-list">
+          {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+          {{ range $pag.Pages }}
+            <h2>{{.Title}}</h2>
+          {{ end }}
+        </div>
+        hi
+{{ end }}
