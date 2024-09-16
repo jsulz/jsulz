@@ -7,11 +7,10 @@ url: 2024-05-09-its-never-been-easier-to-build-never-been-harder-to-find
 draft: false
 categories: ""
 ---
-Hot take: R.E.M. is an enigma. 
 
 {{< youtube Z0GFRcFm-aY >}}
 
-They are simultaneously beloved (or at least their catalog of hits are) and forgotten. This is perhaps because the members of the band are reclusive or inaccessible. When a band's front man is Michael Stipe, entering the zeitgeist of popular culture is an uphill battle. However, their discography is chock full of seminal songs of the 80s and 90s. 
+R.E.M. is an enigma. They are simultaneously beloved (or at least their catalog of hits are) and forgotten. This is perhaps because the members of the band are reclusive or inaccessible. When a band's front man is Michael Stipe, entering the zeitgeist of popular culture is an uphill battle. However, their discography is chock full of seminal songs of the 80s and 90s. 
 
 Anyway, this is not a post about R.E.M., but about another enigma: the internet.
 <!--more-->
