@@ -42,7 +42,7 @@ The past eight years have been a war against the more pernicious aspects of my l
 - 2022 - Started a new job at [Pantheon](https://pantheon.io/)
 - 2022 - Grew our family by one (Moraine, a GSD mutt/mix)
 - 2023 - Left my job at Pantheon
-- 2024 - Joined [XetHub](https://xethub.com/) and landed with a crew of incredibly smart colleagues eventually [combining forces with Hugging Face](); this represents my best professional decision since leaving Montana in 2013 and linking up with LexBlog full time.
+- 2024 - Joined [XetHub](https://xethub.com/) and landed with a crew of incredibly smart colleagues eventually [combining forces with Hugging Face](https://huggingface.co/blog/xethub-joins-hf); this represents my best professional decision since leaving Montana in 2013 and linking up with LexBlog full time.
 - 2024 - Grew our family by one (Daphne, a human mutt/mix)
 
 For me, this is a marked departure from my standard operating procedure and has taken quite a bit of bravery. However, there are still gains to be made here; namely in my ability and desire to speak up for what is right, even (maybe especially) if the cost is interpersonal conflict.
