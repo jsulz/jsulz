@@ -4,6 +4,7 @@ enableRobotsTXT = true
 contentDir = "content"
 
 [Params]
+title = "jsulz"
 subtitle = "Fueled by coffee, code, and spreadsheets"
 mainSections = ["post", "posts"]
 
