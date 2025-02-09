@@ -1,5 +1,8 @@
-<article class="post-preview">
+<article class="border border-gray-300 p-4 bg-white">
     <a href="{{ .Permalink }}">
-        <h2 class="text-red-500">{{ .Title }}</h2>
+        <h2 class="text-orange-500 text-2xl mb-2">{{ .Title }}</h2>
     </a>
+    <p class="text-gray-700">
+        {{ .Summary }}
+    </p>
 </article>

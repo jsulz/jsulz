@@ -1,0 +1,43 @@
+{{ if .IsHome }}
+  {{ if .Site.Params.homeTitle }}{{ $.Scratch.Set "title" .Site.Params.homeTitle }}{{ else }}{{ $.Scratch.Set "title" .Site.Title }}{{ end }}
+  {{ if .Site.Params.subtitle }}{{ $.Scratch.Set "subtitle" .Site.Params.subtitle }}{{ end }}
+{{ else }}
+  {{ $.Scratch.Set "title" .Title }}
+  {{ if .Params.subtitle }}{{ $.Scratch.Set "subtitle" .Params.subtitle }}{{ end }}
+{{ end }}
+{{ $title := $.Scratch.Get "title" }}
+{{ $subtitle := $.Scratch.Get "subtitle" }}
+
+
+  <header class="flex items-center justify-between p-4 md:p-6">
+    {{ if $title }}
+    <div>
+      <div>
+        <div>
+          <div>
+            <div>
+              {{ if eq .Type "list" }}
+                <h1 class="text-xl md:text-3xl">{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+              {{ else }}
+                <h1 class="text-xl md:text-3xl">{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
+              {{ end }}
+              {{ if ne .Type "post" }}
+                <hr class="">
+              {{ end }}
+              {{ if $subtitle }}
+                {{ if eq .Type "page" }}
+                  <span class="">{{ $subtitle }}</span>
+                {{ else }}
+                  <h2 class="">{{ $subtitle }}</h2>
+                {{ end }}
+              {{ end }}
+              {{ if eq .Type "post" }}
+                {{ partial "post_meta.html" . }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+  </header>

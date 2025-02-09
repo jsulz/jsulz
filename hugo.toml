@@ -1,12 +1,41 @@
-baseURL = "/"
+baseURL = '/'
+languageCode = 'en-us'
+title = 'jsulz'
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 contentDir = "content"
 
 [Params]
-title = "jsulz"
 subtitle = "Fueled by coffee, code, and spreadsheets"
 mainSections = ["post", "posts"]
+dateFormat = "January 2, 2006"
+rss = true
+useHLJS = true
+favicon = "img/favicon.ico"
+since = 2016
+homeTitle = 'jsulz'
+
+[Author]
+name = "Jared Sulzdorf"
+website = "/"
+email = "j.sulzdorf@gmail.com"
+github = "jsulz"
+linkedin = "jaredsulzdorf"
+
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[permalinks]
+[permalinks.term]
+categories = '/category/:slug/'
 
 [module]
   [module.hugoVersion]
