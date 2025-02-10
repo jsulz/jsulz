@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <div role="main" class="">
+    <div class="">
+      <div class="">
+        {{ with .Content }}
+          <div class="">
+            {{.}}
+          </div>
+        {{ end }}
+
+        <div class="">
+          {{ $pag := .Paginate (.Data.Pages) }}
+          {{ range $pag.Pages }}
+            {{ partial "post_preview" . }}
+          {{ end }}
+        </div>
+
+        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+          <ul class="">
+            {{ if .Paginator.HasPrev }}
+              <li class="">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
+              </li>
+            {{ end }}
+            {{ if .Paginator.HasNext }}
+              <li class="">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

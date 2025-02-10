@@ -1,18 +1,32 @@
 {{ define "main" }}
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article role="main" class="blog-post">
+<div class="" role="main">
+  <div class="">
+    <div class="">
+      <article role="main" class="">
         {{ .Content }}
 
         {{ if .Params.tags }}
-          <div class="blog-tags">
+          <div class="">
             {{ range .Params.tags }}
               <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
             {{ end }}
           </div>
         {{ end }}
         </article>
+        {{ if ne .Type "page" }}
+        <ul class="">
+          {{ if .PrevInSection }}
+            <li class="">
+              <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
+            </li>
+          {{ end }}
+          {{ if .NextInSection }}
+            <li class="">
+              <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
     </div>
   </div>
 </div>

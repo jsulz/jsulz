@@ -1,10 +1,17 @@
 <span class="post-meta">
-  {{ $lastmodstr := default (i18n "dateFormat") .Site.Params.dateformat | .Lastmod.Format }}
-  {{ $datestr := default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format }}
+  {{ $lastmodstr := .Site.Params.dateformat | .Lastmod.Format }}
+  {{ $datestr := .Site.Params.dateformat | .Date.Format }}
   <i class="fas fa-calendar"></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}
   {{ if ne $datestr $lastmodstr }}
     &nbsp;{{ $lastmodstr | i18n "lastModified"  }}
   {{ end }}
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;{{ .Site.Author.name | safeHTML }}
+    &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;{{ .Site.Author.name | safeHTML }}
+    {{ $taxonomy := "categories" }}
+    {{ with .GetTerms $taxonomy }}
+        &nbsp;|&nbsp; {{ (site.GetPage $taxonomy).LinkTitle }}:
+        {{ range $k, $_ := . -}}
+          {{ if $k }}, {{ end }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- end }}
+    {{ end }}  
 </span>
-

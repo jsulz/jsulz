@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 p-4">
+  <div class="">
     {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
     {{ range $pag.Pages }}
       {{ partial "post_preview" . }}
@@ -7,27 +7,20 @@
   </div>
 
   {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-    <ul class="flex justify-between p-4">
+    <ul class="">
       {{ if .Paginator.HasPrev }}
         <li class="">
           <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
         </li>
-      {{ else }}
-      <li><!-- Empty li to maintain spacing when there's no prev page --></li>
       {{ end }}
       {{ if .Paginator.HasNext }}
         <li class="">
           <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
         </li>
-        {{ else }}
-        <li><!-- Empty li to maintain spacing when there's no prev page --></li>
-        {{ end }}
+      {{ end }}
     </ul>
   {{ end }}
   <article class="">
-    <p class="text-base">
-      This paragraph demonstrates the spacing between lines and letters.
-    </p>
     <h1>Tailwind 3 Hugo Starter</h1>
 
     <h2 class="">Testing Tailwind 3 Features</h2>
