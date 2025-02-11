@@ -1,4 +1,4 @@
-<span class="post-meta">
+<span class="">
   {{ $lastmodstr := .Site.Params.dateformat | .Lastmod.Format }}
   {{ $datestr := .Site.Params.dateformat | .Date.Format }}
   <i class="fas fa-calendar"></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}
