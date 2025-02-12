@@ -1,4 +1,4 @@
-<nav class="">
+<nav class="flex">
     <div class="flex space-x-4">
       <div class="">
         <button type="button" class="" data-toggle="collapse" data-target="#main-navbar">
@@ -28,6 +28,14 @@
               </li>
             {{ end }}
           {{ end }}
+          <li>
+            <button 
+            class="px-4 py-2 bg-lightButton dark:bg-darkButton text-black rounded hover:bg-opacity-80"
+            onclick="document.documentElement.classList.toggle('dark')"
+          >
+            Toggle Dark
+          </button>
+          </li>
         </ul>
       </div>  
     </div>
