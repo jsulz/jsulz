@@ -3,11 +3,46 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body class="bg-lightBg dark:bg-darkBg ">
+  <body class="bg-lightBg dark:bg-darkBg transition-colors">
     {{ partial "nav.html" . }}
     {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
     {{ block "main" . }}{{ end }}
     {{ partial "footer.html" . }}
     {{ block "footer" . }}{{ end }}
+    <script>
+      function toggleMobileMenu() {
+        var menu = document.getElementById('mobile-menu');
+        if (menu.classList.contains('max-h-0')) {
+          // Open the menu: remove closed classes and add open classes
+          menu.classList.remove('max-h-0', 'opacity-0');
+          menu.classList.add('max-h-screen', 'opacity-100');
+        } else {
+          // Close the menu: remove open classes and add closed classes
+          menu.classList.remove('max-h-screen', 'opacity-100');
+          menu.classList.add('max-h-0', 'opacity-0');
+        }
+      }
+    </script>
+    <script>
+      // Toggle Dark Functionality
+      let flag = true;
+      const toggler = document.querySelector('.toggler');
+
+      // Toggle Dark Function
+      const toggleDark = () => {
+        toggler.addEventListener('click', () => {
+          const html = document.documentElement;
+          console.log(toggler.children[0]);
+          toggler.children[0].classList.toggle('translate-x-10');
+          if (flag) {
+            html.classList.add('dark');
+          } else {
+            html.classList.remove('dark');
+          }
+          flag = !flag;
+        });
+      };
+      toggleDark();
+    </script>
   </body>
 </html>

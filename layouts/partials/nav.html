@@ -1,42 +1,97 @@
-<nav class="flex">
-    <div class="flex space-x-4">
-      <div class="">
-        <button type="button" class="" data-toggle="collapse" data-target="#main-navbar">
-          <span class="">{{ i18n "toggleNavigation" }}</span>
-          <span class=""></span>
-          <span class=""></span>
-          <span class=""></span>
-        </button>
-        <a class="" href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+<nav class="bg-lightBg dark:bg-darkBg shadow">
+  <div class="container mx-auto px-4">
+    <div class="flex items-center justify-between h-16">
+      <!-- Site Title (always left) -->
+      <div class="flex-shrink-0">
+        <a href="{{ "" | absLangURL }}" class="text-xl font-heading text-lightText dark:text-darkText">
+          {{ .Site.Title }}
+        </a>
       </div>
-  
-      <div class="">
+      <!-- Desktop Menu (hidden on mobile) -->
+      <div class="hidden md:flex items-center space-x-4">
         <ul class="flex space-x-4">
-            {{ range .Site.Menus.main.ByWeight }}
+          {{ range .Site.Menus.main.ByWeight }}
             {{ if .HasChildren }}
-              <li class="">
-                <a class="">{{ .Name }}</a>
-                <div class="">
+              <li class="relative group">
+                <a href="#" class="text-lightText dark:text-darkText hover:underline">
+                  {{ .Name }}
+                </a>
+                <div class="absolute left-0 mt-2 w-40 bg-lightBg dark:bg-darkBg border border-gray-200 dark:border-gray-700 rounded shadow opacity-0 group-hover:opacity-100 transition-opacity">
                   {{ range .Children }}
-                    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                    <a href="{{ .URL | relLangURL }}" class="block px-4 py-2 text-lightText dark:text-darkText hover:bg-lightAccentGreen dark:hover:bg-darkAccentGreen">
+                      {{ .Name }}
+                    </a>
                   {{ end }}
                 </div>
               </li>
             {{ else }}
               <li>
-                <a title="{{ .Name }}" href="{{ .URL  | relLangURL }}">{{ .Name }}</a>
+                <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="text-lightText dark:text-darkText hover:underline">
+                  {{ .Name }}
+                </a>
               </li>
             {{ end }}
           {{ end }}
           <li>
-            <button 
-            class="px-4 py-2 bg-lightButton dark:bg-darkButton text-black rounded hover:bg-opacity-80"
-            onclick="document.documentElement.classList.toggle('dark')"
+          <!-- Toggler -->
+          <div
+            class="bg-gray-500 w-20 mx-auto cursor-pointer rounded-3xl toggler dark:bg-green-500"
           >
-            Toggle Dark
-          </button>
+            <div
+              class="bg-white w-10 h-10 scale-75 rounded-3xl transition-transform dark:bg-black"
+            ></div>
+          </div>
+          <!-- End Of Toggler -->
           </li>
         </ul>
-      </div>  
+      </div>
+      <!-- Mobile Menu Button (visible on mobile) -->
+      <div class="md:hidden">
+        <button id="mobile-menu-button" class="focus:outline-none" onclick="toggleMobileMenu()">
+          <!-- Hamburger Icon: three bars -->
+          <div class="w-6 h-0.5 bg-lightText dark:bg-darkText mb-1"></div>
+          <div class="w-6 h-0.5 bg-lightText dark:bg-darkText mb-1"></div>
+          <div class="w-6 h-0.5 bg-lightText dark:bg-darkText"></div>
+        </button>
+      </div>
     </div>
-  </nav>
+  </div>
+  <!-- Mobile Menu Dropdown (initially closed) -->
+  <div id="mobile-menu" class="md:hidden overflow-hidden transition-all duration-1000 ease-in-out max-h-0 opacity-0">
+    <ul class="px-4 pt-2 pb-3 space-y-1">
+      {{ range .Site.Menus.main.ByWeight }}
+        {{ if .HasChildren }}
+          <li>
+            <a href="#" class="block text-lightText dark:text-darkText hover:underline">
+              {{ .Name }}
+            </a>
+            <div class="pl-4">
+              {{ range .Children }}
+                <a href="{{ .URL | relLangURL }}" class="block text-lightText dark:text-darkText hover:underline">
+                  {{ .Name }}
+                </a>
+              {{ end }}
+            </div>
+          </li>
+        {{ else }}
+          <li>
+            <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="block text-lightText dark:text-darkText hover:underline">
+              {{ .Name }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+      <li>
+    <!-- Toggler -->
+    <div
+      class="bg-gray-500 w-20 mx-auto mt-10 cursor-pointer rounded-3xl toggler dark:bg-green-500"
+    >
+      <div
+        class="bg-white w-10 h-10 scale-75 rounded-3xl transition-transform dark:bg-black"
+      ></div>
+    </div>
+    <!-- End Of Toggler -->
+      </li>
+    </ul>
+  </div>
+</nav>
