@@ -1,12 +1,12 @@
 const typography = require('@tailwindcss/typography');
 
 module.exports = {
-	darkMode: 'class',
 	content: ['./hugo_stats.json'],
 	plugins: [typography],
 	// Define the theme here 
 	theme: {
 		extend: {
+			//darkMode: 'class',
 			colors: {
 			// Light mode palette
 			lightBg: '#FAE8C3',        

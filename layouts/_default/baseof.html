@@ -23,26 +23,5 @@
         }
       }
     </script>
-    <script>
-      // Toggle Dark Functionality
-      let flag = true;
-      const toggler = document.querySelector('.toggler');
-
-      // Toggle Dark Function
-      const toggleDark = () => {
-        toggler.addEventListener('click', () => {
-          const html = document.documentElement;
-          console.log(toggler.children[0]);
-          toggler.children[0].classList.toggle('translate-x-10');
-          if (flag) {
-            html.classList.add('dark');
-          } else {
-            html.classList.remove('dark');
-          }
-          flag = !flag;
-        });
-      };
-      toggleDark();
-    </script>
   </body>
 </html>
