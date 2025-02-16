@@ -1,46 +1,9 @@
-<footer>
-<div class="">
-{{ if .Site.Params.disclaimerText }}
-<div class="">
-  <div class="">
-    <b>Disclaimer:</b> {{ .Site.Params.disclaimerText }}
-  </div>
-</div>
-{{ end }}
-<div class="">
-  <div class="">
-    <ul class="">
-      {{ range .Site.Data.beautifulhugo.social.social_icons }}
-        {{- if isset $.Site.Author .id }}
-          <li>
-    {{ if or ( hasPrefix ( index $.Site.Author .id ) "http://" ) ( hasPrefix ( index $.Site.Author .id ) "https://" ) }}
-      <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf "%s" (index $.Site.Author .id) }}" title="{{ .title }}">
-    {{ else }}
-      <a {{ if .rel }}rel="{{ .rel }}"{{- end -}} href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
-    {{ end }}
-              <span class="">
-                <i class=""></i>
-                <i class=""></i>
-              </span>
-            </a>
-          </li>
-        {{- end -}}
-      {{ end }}
-      {{ if .Site.Params.rss }}
-      <li>
-        <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="RSS">
-          <span class="">
-            <i class=""></i>
-            <i class=""></i>
-          </span>
-        </a>
-      </li>
-      {{ end }}
-    </ul>
-    <p class="">
+<footer class=" bg-white/90 dark:bg-darkBg p-2 shadow-lg">
+  <div class="container mx-auto px-2">
+<div class="flex items-center justify-center h-16">
       {{ if .Site.Author.name }}
         {{ if .Site.Author.website }}
-          <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+          <a href="{{ .Site.Author.website }}" class="underline">{{ .Site.Author.name }}</a>
         {{ else }}
           {{ .Site.Author.name }}
         {{ end }}
@@ -55,10 +18,8 @@
 
       {{ if .Site.Title }}
         &nbsp;&bull;&nbsp;
-        <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+        <a href="{{ "" | absLangURL }}" class="text-xl font-heading text-lightAccentRed dark:text-darkAccentOrange">{{ .Site.Title }}</a>
       {{ end }}
-    </p>
   </div>
-</div>
 </div>
 </footer>
