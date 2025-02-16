@@ -9,26 +9,22 @@
 {{ $subtitle := $.Scratch.Get "subtitle" }}
 
 
-  <header class="flex items-center justify-between p-4 md:p-6">
+  <header class="flex items-center justify-center p-4 md:p-6">
     {{ if $title }}
     <div>
       <div>
         <div>
           <div>
             <div>
-              {{ if eq .Type "list" }}
-                <h1 class="text-xl md:text-3xl">{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
-              {{ else }}
-                <h1 class="text-xl md:text-3xl">{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
-              {{ end }}
+              <h1 class="text-center text-6xl md:text-8xl font-heading font-extrabold">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
               {{ if ne .Type "post" }}
-                <hr class="">
+                <hr class="mx-24 md:mx-20 h-1 bg-lightAccentRed dark:bg-darkAccentOrange">
               {{ end }}
               {{ if $subtitle }}
                 {{ if eq .Type "page" }}
-                  <span class="">{{ $subtitle }}</span>
+                  <h2 class="m-1 font-body font-extralight">{{ $subtitle }}</h2>
                 {{ else }}
-                  <h2 class="">{{ $subtitle }}</h2>
+                  <h2 class="font-heading">{{ $subtitle }}</h2>
                 {{ end }}
               {{ end }}
               {{ if eq .Type "post" }}
