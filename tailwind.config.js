@@ -35,6 +35,8 @@ module.exports = {
 			typography: (theme) => ({
 			DEFAULT: {
 				css: {
+					'code::before': false,
+					'code::after': false,
 				a: {
 					color: theme('colors.lightLink'),
 					textDecoration: 'underline',
@@ -43,11 +45,28 @@ module.exports = {
 					},
 				},
 				blockquote: {
-					borderLeftColor: theme('colors.calvinRed'),
+					borderLeftColor: theme('colors.lightAccentRed'),
 					fontStyle: 'italic',
 					paddingLeft: '1rem',
 				},
-				// etc.
+
+				// etc.      
+				code: {
+					backgroundColor: theme('colors.lightButton') + 'cc',
+					padding: '0.125rem 0.25rem',
+					borderRadius: '0.25rem',
+					'&::before': {
+						content: '""',
+					},
+				},
+				'pre code': {
+					backgroundColor: 'transparent', // to let <pre> handle BG
+				},
+				'pre': {
+					backgroundColor: theme('colors.lightAccentYellow'), // or a separate color
+					padding: '1rem',
+					borderRadius: '0.5rem',
+				},
 				},
 			},
 			dark: {

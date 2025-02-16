@@ -1,9 +1,9 @@
-<nav class="bg-lightBg dark:bg-darkBg shadow">
-  <div class="container mx-auto px-4">
+<nav class="sticky top-0 z-50 bg-white/90 dark:bg-darkBg shadow-lg">
+  <div class="container mx-auto px-2">
     <div class="flex items-center justify-between h-16">
       <!-- Site Title (always left) -->
       <div class="flex-shrink-0">
-        <a href="{{ "" | absLangURL }}" class="text-xl font-heading text-lightText dark:text-darkText">
+        <a href="{{ "" | absLangURL }}" class="text-xl font-heading text-lightAccentRed dark:text-darkAccentOrange">
           {{ .Site.Title }}
         </a>
       </div>
@@ -13,12 +13,12 @@
           {{ range .Site.Menus.main.ByWeight }}
             {{ if .HasChildren }}
               <li class="relative group">
-                <a href="#" class="text-lightText dark:text-darkText hover:underline">
+                <a href="#" class=" hover:underline">
                   {{ .Name }}
                 </a>
-                <div class="absolute left-0 mt-2 w-40 bg-lightBg dark:bg-darkBg border border-gray-200 dark:border-gray-700 rounded shadow opacity-0 group-hover:opacity-100 transition-opacity">
+                <div class="absolute left-0 mt-2 w-40 transition-opacity">
                   {{ range .Children }}
-                    <a href="{{ .URL | relLangURL }}" class="block px-4 py-2 text-lightText dark:text-darkText hover:bg-lightAccentGreen dark:hover:bg-darkAccentGreen">
+                    <a href="{{ .URL | relLangURL }}" class="block px-4 py-2">
                       {{ .Name }}
                     </a>
                   {{ end }}
@@ -26,7 +26,7 @@
               </li>
             {{ else }}
               <li>
-                <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="text-lightText dark:text-darkText hover:underline">
+                <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="font-heading text-lightAccentRed dark:text-darkLink hover:underline">
                   {{ .Name }}
                 </a>
               </li>
@@ -49,7 +49,7 @@
   </div>
   <!-- Mobile Menu Dropdown (initially closed) -->
   <div id="mobile-menu" class="md:hidden overflow-hidden transition-all duration-1000 ease-in-out max-h-0 opacity-0">
-    <ul class="px-4 pt-2 pb-3 space-y-1">
+    <ul class="px-2 pt-1 pb-3 space-y-1">
       {{ range .Site.Menus.main.ByWeight }}
         {{ if .HasChildren }}
           <li>
@@ -66,7 +66,7 @@
           </li>
         {{ else }}
           <li>
-            <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="block text-lightText dark:text-darkText hover:underline">
+            <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="font-heading text-lightAccentRed dark:text-darkLink hover:underline">
               {{ .Name }}
             </a>
           </li>
