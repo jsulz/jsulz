@@ -1,0 +1,42 @@
+{{ if .IsHome }}
+  {{ if .Site.Params.homeTitle }}{{ $.Scratch.Set "title" .Site.Params.homeTitle }}{{ else }}{{ $.Scratch.Set "title" .Site.Title }}{{ end }}
+  {{ if .Site.Params.subtitle }}{{ $.Scratch.Set "subtitle" .Site.Params.subtitle }}{{ end }}
+{{ else }}
+  {{ $.Scratch.Set "title" .Title }}
+  {{ if .Params.subtitle }}{{ $.Scratch.Set "subtitle" .Params.subtitle }}{{ end }}
+{{ end }}
+{{ $title := $.Scratch.Get "title" }}
+{{ $subtitle := $.Scratch.Get "subtitle" }}
+
+
+  <header class="flex items-center justify-center text-center p-4 md:p-6">
+    {{ if $title }}
+    <div>
+      <div>
+        <div>
+          <div>
+            <div>
+              {{ if ne .Type "post" }}
+                <h1 class="text-center text-6xl md:text-8xl font-heading font-extrabold">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
+                <hr class="w-24 md:w-32 h-1 mx-auto border-0 rounded-sm text-lightAccentRed dark:text-darkAccentOrange bg-lightAccentRed dark:bg-darkAccentOrange">
+              {{ end }}
+              {{ if eq .Type "post" }}
+              <h1 class="text-center text-4xl md:text-6xl font-heading font-extrabold max-w-screen-xl">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
+              {{ end }}
+              {{ if $subtitle }}
+                {{ if eq .Type "page" }}
+                  <h2 class="m-1 font-body font-extralight">{{ $subtitle }}</h2>
+                {{ else }}
+                  <h2 class="font-heading">{{ $subtitle }}</h2>
+                {{ end }}
+              {{ end }}
+              {{ if eq .Type "post" }}
+                {{ partial "post_meta.html" . }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+  </header>

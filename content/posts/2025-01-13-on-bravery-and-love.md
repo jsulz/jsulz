@@ -6,12 +6,14 @@ date: 2025-01-23T14:20:30-07:00
 url: 2025-01-23-on-bravery-and-love
 draft: false
 categories:
-  - "What's This!?"
+  - "Life"
 ---
 
 On December 9th, 2024 at 10:33pm my wife and I welcomed a new member of our family. Daphne Sulzdorf Kirsch came into this world announcing her presence with a scream.
 
 A month later, the screams have more space between them, although her growing stamina and strength have conspired to make them louder and longer.
+
+<!--more-->
 
 I thought my experience with priority realignment was battle tested and hardened. My career has been in tech startups. Pivots happen. Priorities change. When they do you evaluate the cause and effect and develop a new strategy. It requires mental flexibility and emotional control.
 

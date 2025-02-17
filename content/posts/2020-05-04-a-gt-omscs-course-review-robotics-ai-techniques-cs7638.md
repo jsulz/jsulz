@@ -6,7 +6,6 @@ date: 2020-05-05T05:23:56+00:00
 url: /2020/05/04/a-gt-omscs-course-review-robotics-ai-techniques-cs7638/
 categories:
   - Georgia Tech OMSCS
-  - "Robotics: AI Techniques"
 ---
 
 Robotics: AI Techniques marked the beginning of my foray into Georgia Tech&#8217;s OMSCS machine learning and artificial intelligence offerings. As I mentioned in my review of [High Performance Computer Architecture (HPCA)][1], my other Georgia Tech courses have focused on computing systems. This was mostly a function of the popularity of the ML/AI courses making them difficult to register for, and the computing system courses being among the most well-regarded classes in the program. However, my chosen specialization for this degree is machine learning, and so this semester it was time to get going.

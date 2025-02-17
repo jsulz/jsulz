@@ -1,0 +1,79 @@
+<nav class="sticky top-0 z-50 bg-white/90 dark:bg-darkBg shadow-lg">
+  <div class="container mx-auto px-2">
+    <div class="flex items-center justify-between h-16">
+      <!-- Site Title (always left) -->
+      <div class="flex-shrink-0">
+        <a href="{{ "" | absLangURL }}" class="text-xl font-heading text-lightAccentRed dark:text-darkAccentOrange">
+          {{ .Site.Title }}
+        </a>
+      </div>
+      <!-- Desktop Menu (hidden on mobile) -->
+      <div class="hidden md:flex items-center space-x-4">
+        <ul class="flex space-x-4">
+          {{ range .Site.Menus.main.ByWeight }}
+            {{ if .HasChildren }}
+              <li class="relative group">
+                <a href="#" class=" hover:underline">
+                  {{ .Name }}
+                </a>
+                <div class="absolute left-0 mt-2 w-40 transition-opacity">
+                  {{ range .Children }}
+                    <a href="{{ .URL | relLangURL }}" class="block px-4 py-2">
+                      {{ .Name }}
+                    </a>
+                  {{ end }}
+                </div>
+              </li>
+            {{ else }}
+              <li>
+                <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="font-heading text-lightAccentRed dark:text-darkLink hover:underline">
+                  {{ .Name }}
+                </a>
+              </li>
+            {{ end }}
+          {{ end }}
+          <li>
+          </li>
+        </ul>
+      </div>
+      <!-- Mobile Menu Button (visible on mobile) -->
+      <div class="md:hidden">
+        <button id="mobile-menu-button" class="focus:outline-none" onclick="toggleMobileMenu()">
+          <!-- Hamburger Icon: three bars -->
+          <div class="w-6 h-0.5 bg-lightText dark:bg-darkText mb-1"></div>
+          <div class="w-6 h-0.5 bg-lightText dark:bg-darkText mb-1"></div>
+          <div class="w-6 h-0.5 bg-lightText dark:bg-darkText"></div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <!-- Mobile Menu Dropdown (initially closed) -->
+  <div id="mobile-menu" class="md:hidden overflow-hidden transition-all duration-1000 ease-in-out max-h-0 opacity-0">
+    <ul class="px-2 pt-1 pb-3 space-y-1">
+      {{ range .Site.Menus.main.ByWeight }}
+        {{ if .HasChildren }}
+          <li>
+            <a href="#" class="block text-lightText dark:text-darkText hover:underline">
+              {{ .Name }}
+            </a>
+            <div class="pl-4">
+              {{ range .Children }}
+                <a href="{{ .URL | relLangURL }}" class="block text-lightText dark:text-darkText hover:underline">
+                  {{ .Name }}
+                </a>
+              {{ end }}
+            </div>
+          </li>
+        {{ else }}
+          <li>
+            <a title="{{ .Name }}" href="{{ .URL | relLangURL }}" class="font-heading text-lightAccentRed dark:text-darkLink hover:underline">
+              {{ .Name }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+      <li>
+      </li>
+    </ul>
+  </div>
+</nav>

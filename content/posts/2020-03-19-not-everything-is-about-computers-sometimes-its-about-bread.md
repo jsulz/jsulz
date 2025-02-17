@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2020-03-19T17:46:34+00:00
 url: /2020/03/19/not-everything-is-about-computers-sometimes-its-about-bread/
-bigimg: [{ src: "/img/bread.jpeg", desc: "Sourdough" }]
 categories:
   - Foodz
 

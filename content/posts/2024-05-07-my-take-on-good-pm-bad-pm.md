@@ -5,7 +5,7 @@ title: "My Take on 'Good Product Manager, Bad Product Manager'"
 date: 2024-05-07T10:14:16-07:00
 url: 2024-05-07-my-take-on-good-pm-bad-pm
 draft: false
-categories: ""
+categories: "Product Management"
 ---
 
 After taking three or four months off from work, I've been looking around for my next landing spot after leaving Pantheon in November of 2023. That amount of time bought me a lot of clarity in how I want to practice the art of product management. It also gave me a lot of time to read! I'm still cranking through a lot of books, but one that I've been thinking about a lot is [Ben Horowitz's "Good Product Manager, Bad Product Manager" essay](https://a16z.com/good-product-manager-bad-product-manager/), especially as I've been interviewing again and it's hard to avoid thinking about what makes me a good (and bad) product manager.

@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2017-02-13T22:28:36+00:00
 url: /2017/02/13/getting-know-getting-know/
-bigimg: [{ src: "/img/the-lexblog-publishing-platform.png", desc: "LexBlog's presence"}]
 categories:
   - LexBlog
   - Product Mangement

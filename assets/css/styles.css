@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "components/all.css";
+
+html {
+  font-size: 20px;
+}
+
+@screen md {
+  html {
+    font-size: 20px;
+  }
+}
+
+@layer components {
+  .menu-enter {
+    @apply opacity-0 transform -translate-y-2;
+  }
+  .menu-enter-active {
+    @apply transition-all duration-300 ease-out;
+  }
+  .menu-enter-to {
+    @apply opacity-100 translate-y-0;
+  }
+  .menu-leave {
+    @apply opacity-100 translate-y-0;
+  }
+  .menu-leave-active {
+    @apply transition-all duration-200 ease-in;
+  }
+  .menu-leave-to {
+    @apply opacity-0 -translate-y-2;
+  }
+}

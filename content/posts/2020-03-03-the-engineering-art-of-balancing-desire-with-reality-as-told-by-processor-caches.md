@@ -9,15 +9,13 @@ categories:
   - High Performance Computer Architecture
 ---
 
-![AMD Zen Architecture](/img/zen-315x320-1.png#floatright "AMD Zen Architecture")
-
-In a course about high performance computer architecture, it&#8217;s no surprise that most of the time is spent discussing how to speed up computers using their architecture. It&#8217;s almost as though the name of the course tells you exactly what to expect.
+{{< figure src="/img/zen-315x320-1.png" class="float-right inline-block pl-1">}} In a course about high performance computer architecture, it&#8217;s no surprise that most of the time is spent discussing how to speed up computers using their architecture. It&#8217;s almost as though the name of the course tells you exactly what to expect.
 
 This week [in CS6290 at Georgia Tech][1], we&#8217;ve moved on to caches, which play a key role in speeding up the retrieval of information. The processor&#8217;s goal is crunching data which is held either in main memory (RAM) or on the disk (an SSD or HDD). To get that data, the processor issues requests for memory addresses and retrieves the data from the memory storage unit that holds that information.
 
 <!--more-->
 
-On a modern CPU, there are a number of memory caches. _<brag alert!>_ My new [AMD Ryzen 7 3700x][2] has three such caches (following the typical naming convention of L1, L2, L3) with the size of the cache increasing the further away the cache gets from the registers and ALU (512 KB, 4MB, and 32MB).*</brag alert!>*  The goal of these caches is to reduce the cost of going to main memory or to the disk. Generally, we can access the L1 cache in a cycle, but going to main memory may take 30 cycles, while going off to main memory takes hundreds of cycles and varies wildly in performance based on the storage technology. We can quantify this relationship using the following equation:
+On a modern CPU, there are a number of memory caches. `<brag alert!>` My new [AMD Ryzen 7 3700x][2] has three such caches (following the typical naming convention of L1, L2, L3) with the size of the cache increasing the further away the cache gets from the registers and ALU (512 KB, 4MB, and 32MB).`</brag alert!>`  The goal of these caches is to reduce the cost of going to main memory or to the disk. Generally, we can access the L1 cache in a cycle, but going to main memory may take 30 cycles, while going off to main memory takes hundreds of cycles and varies wildly in performance based on the storage technology. We can quantify this relationship using the following equation:
 
 <pre>Average Memory Access Time (AMAT) = Hit Time + Miss Rate * Miss Penalty</pre>
 

@@ -5,7 +5,7 @@ type: post
 date: 2019-07-23T19:24:59+00:00
 url: /2019/07/23/technology-advances-the-world-remains-the-same/
 categories:
-  - "What's This!?"
+  - "Technology"
 
 ---
 I do not own a desktop computer and have not for nearly seven years. Before that, my primary computer was a Dell desktop that my parents bought me as a college graduation present that I augmented with a small notebook computer (at a time when such small laptops were just a novelty).

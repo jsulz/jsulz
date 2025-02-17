@@ -6,7 +6,6 @@ date: 2023-11-11T08:31:10-08:00
 url: /2023/11/11/why-hugo-why-not-wordpress/
 categories:
   - "Hugo"
-  - "What's This!?"
 ---
 My first tour of the WordPress admin was in 2009 ([version 2.8 - Chet Baker](https://wordpress.org/documentation/wordpress-version/version-2-8/)). In my four years of freelancing after college, I dug through and created countless themes and plugins. After moving to Seattle, I ran product development at [LexBlog](https://www.lexblog.com/), a digital publishing company where WordPress was front and center. In the past two years, I worked at [Pantheon](https://pantheon.io/), a WebOps company supporting Drupal and WordPress website teams.
 

@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2019-08-27T18:57:02+00:00
 url: /2019/08/27/working-remotely-in-anchorage-alaska/
-bigimg: [{ src: "/img/portage-glacier.jpeg", desc: "Portage Glacier"}]
 categories:
   - LexBlog
 
@@ -12,10 +11,9 @@ categories:
 My morning routine is sacrosanct. Every day, I wake up at the same time, drink the exact same amount of coffee (which is usually just a little too much), take the same bus, and settle into work. I find a great deal of comfort in this routine, which is why the lack of shock to my system over the month of August was itself quite a shock.  On Sunday, July 28th, my wife and I flew up to Anchorage, Alaska and settled in a small Airbnb on the outskirts of town.
 
 This was not a permanent move; in fact I&#8217;m already back in Seattle. Our time in Anchorage was limited to a month as Sarah wrapped up a rotation at the [Alaska Native Medical Center (ANMC)][1]. While her routine was shockingly similar (which is to say, &#8220;brutal&#8221; &#8211; residency is no joke), mine was very different. Gone was the morning commute to the office. My french press had to stay at home, and the view from my office became dominated by a forest filled with vegetation and the occasional moose.
+<!--more-->
 
-![Mom and calf](/img/mom-and-calf.jpeg "Mom and calf")
-
-Other than the change of scenery and slight shift in daily routine, however, my work life remained the same. I may move around, but our platform&#8217;s infrastructure and tooling could care less about where my laptop is opened so long as my logins are valid. <!--more-->
+{{< figure src="/img/mom-and-calf.jpeg" width="300px" class="md:float-right md:inline-block">}}Other than the change of scenery and slight shift in daily routine, however, my work life remained the same. I may move around, but our platform&#8217;s infrastructure and tooling could care less about where my laptop is opened so long as my logins are valid. 
 
 I wish this claim were the first of its kind, but alas, my feet are walking on a path already traveled by Scott Fennell. For years, Scott practiced his craft in Anchorage, helping build our little corner of the internet. Although he&#8217;s relocated to Maine (Scott apparently lives only on the edges of the United States), I felt a great deal of comfort knowing that this arrangement could work even if it was only for a short period of time.
 

@@ -5,20 +5,16 @@ title: "It's Never Been Easier to Build Online, It's Never Been Harder to Find I
 date: 2024-05-09T08:41:51-07:00
 url: 2024-05-09-its-never-been-easier-to-build-never-been-harder-to-find
 draft: false
-categories: ""
+categories: "What's this?!"
 ---
 
-{{< youtube Z0GFRcFm-aY >}}
-
-R.E.M. is an enigma. They are simultaneously beloved (or at least their catalog of hits are) and forgotten. This is perhaps because the members of the band are reclusive or inaccessible. When a band's front man is Michael Stipe, entering the zeitgeist of popular culture is an uphill battle. However, their discography is chock full of seminal songs of the 80s and 90s. 
-
-Anyway, this is not a post about R.E.M., but about another enigma: the internet.
-<!--more-->
 I don't have an RSS reader anymore. When [Google Reader](https://en.wikipedia.org/wiki/Google_Reader) shut down, I briefly tried to incorporate [Feedly](https://feedly.com/) as my daily RSS driver, but it never stuck. Instead, I've turned to a compilation of Substack publications, independent blogs, and curated newsletters. My inbox has become my RSS reader, which it was never designed to be (that's a conversation for another day). 
 
 In my inbox and in conversations with other friends of mine who are also internet denizens, I'm noticing a trend: It's the end of the internet as we know it, and it has been for a while. 
 
-The reason R.E.M. came to mind is because my conversations began with a former co-worker, who wrote [It's the end of Search as We Know It](https://www.crazythirdoption.com/its-the-end-of-the-search-as-we-know-it/) on his blog. Garry has long felt that search is broken, and he's right. There's too much content and the incentives between consumer, producer, and gatekeeper are misaligned. 
+<!--more-->
+
+The reason that turn of phrase is on my mind isn't because I'm a huge R.E.M. fan, it's because of a series of conversations that began with a former co-worker, who wrote [It's the end of Search as We Know It](https://www.crazythirdoption.com/its-the-end-of-the-search-as-we-know-it/) on his blog. Garry has long felt that search is broken, and he's right. There's too much content and the incentives between consumer, producer, and gatekeeper are misaligned. 
 
 > How does our writing, which in many cases, has helped build these models, get surfaced in this brave new world? As a reference link? Would anyone ever click through? How will the content be vetted or weighted to appear? If that is all that is served up from your writing, is it even worth writing on the web? ...... Unless something changes, independent bloggers are going to get squeezed out of the web completely. Which I would argue is long overdue. We are already at the whim of powerful companies making decision that are beyond our control. 
 
