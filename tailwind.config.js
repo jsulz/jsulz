@@ -106,6 +106,7 @@ module.exports = {
         },
         dark: {
           css: {
+			'--tw-shadow-color': 'red',
             color: theme('colors.darkText'),
             h1: { color: theme('colors.darkText') },
             h2: { color: theme('colors.darkText') },

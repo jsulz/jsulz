@@ -16,9 +16,12 @@
         <div>
           <div>
             <div>
-              <h1 class="text-center text-6xl md:text-8xl font-heading font-extrabold">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
               {{ if ne .Type "post" }}
+                <h1 class="text-center text-6xl md:text-8xl font-heading font-extrabold">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
                 <hr class="w-24 md:w-32 h-1 mx-auto border-0 rounded-sm text-lightAccentRed dark:text-darkAccentOrange bg-lightAccentRed dark:bg-darkAccentOrange">
+              {{ end }}
+              {{ if eq .Type "post" }}
+              <h1 class="text-center text-4xl md:text-6xl font-heading font-extrabold max-w-screen-xl">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
               {{ end }}
               {{ if $subtitle }}
                 {{ if eq .Type "page" }}

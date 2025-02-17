@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2017-08-29T16:20:03+00:00
 url: /2017/08/29/lexblog-moving-wework/
-bigimg: [{ src: "/img/20170829_075743.jpeg", desc: "Dexter Horton building ceiling"}]
 categories:
   - LexBlog
 

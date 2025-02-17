@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2019-04-15T15:30:28+00:00
 url: /2019/04/15/overcoming-the-trough-of-sorrow/
-bigimg: [{src: "/img/troughofsorrow.jpeg", desc: "Trough of sorrow"}]
 categories:
   - LexBlog
   - Product Mangement

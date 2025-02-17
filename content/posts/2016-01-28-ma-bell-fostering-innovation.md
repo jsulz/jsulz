@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2016-01-28T09:03:00+00:00
 url: /2016/01/28/ma-bell-fostering-innovation/
-bigimg: [{ src: "/img/Apple_Campus_2_rendering.jpeg", desc: "Original Apple campus designs" }]
 categories:
   - "What's This!?"
 

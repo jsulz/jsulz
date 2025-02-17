@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2020-05-14T23:10:39+00:00
 url: /2020/05/14/how-i-got-through-oregon-state-universitys-online-computer-science-post-bacc/
-bigimg: [{ src: "/img/oregon_state_univeristy.png", desc: "Oregon State Univeristy"}]
 categories:
   - OSU Post-Bacc
 

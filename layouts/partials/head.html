@@ -38,9 +38,16 @@
   <meta property="og:url" content="{{ .Permalink | absLangURL }}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
+
+  {{ if .IsHome }}
   <title>
-    {{ .Site.Title }}
+    {{ .Site.Title }} | {{ .Site.Params.subtitle }}
   </title>
+  {{ else }}
+  <title>
+    {{ .Title }} | {{ .Site.Title }} | {{ .Site.Params.subtitle }}
+    </title>
+  {{ end }}
   <meta name="description" content="{{ .Site.Params.subtitle }}" />
   {{/* styles */}}
   {{ $options := dict "inlineImports" true }}
@@ -63,12 +70,6 @@
     {{- end }}
 {{ end }}
 
-{{- with ($.Scratch.Get "Description") }}
-  <meta name="description" content="{{ . }}">
-{{- end }}
-{{- with .Site.Author.name }}
-  <meta name="author" content="{{ . }}"/>
-{{- end }}
 {{- with .Site.Params.favicon }}
   <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
 {{- end -}}

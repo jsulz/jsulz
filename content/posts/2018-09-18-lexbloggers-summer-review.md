@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2018-09-18T19:12:28+00:00
 url: /2018/09/18/lexbloggers-summer-review/
-bigimg: [{ src: "/img/sarah-jared-0818-cgp-346-web.jpeg", "The best day of my life"}]
 categories:
   - "What's This!?"
 

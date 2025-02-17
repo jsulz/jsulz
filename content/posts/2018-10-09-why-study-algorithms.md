@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2018-10-09T19:20:34+00:00
 url: /2018/10/09/why-study-algorithms/
-bigimg: [{ src: "/img/algo.jpeg", desc: "What it feels like studying algorithms"}]
 categories:
   - OSU Post-Bacc
 

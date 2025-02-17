@@ -1,4 +1,4 @@
-<span class="flex md:flex-row flex-col  items-center justify-center text-lightAccentRed dark:text-darkAccentOrange text-sm">
+<span class="flex md:flex-row flex-col mt-3  items-center justify-center text-lightAccentRed dark:text-darkAccentOrange text-sm">
   {{ $lastmodstr := .Site.Params.dateformat | .Lastmod.Format }}
   {{ $datestr := .Site.Params.dateformat | .Date.Format }}
   <div class="md:border-r-2 border-lightAccentRed dark:border-darkAccentOrange md:pr-2"><i class="fas fa-calendar"></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}</div>

@@ -2,7 +2,7 @@
 <div class="flex flex-col items-center justify-center" role="main">
   <div class="">
     <div class="">
-      <article role="main" class="prose dark:prose-dark font-body bg-white/40 p-8 rounded-xl dark:bg-darkBg">
+      <article role="main" class="prose dark:prose-dark font-body shadow-md dark:shadow-transparent mb-4 bg-white/40 dark:bg-transparent p-8 rounded-xl dark:bg-darkBg">
         {{ .Content }}
 
         {{ if .Params.tags }}
@@ -14,15 +14,16 @@
         {{ end }}
         </article>
         {{ if ne .Type "page" }}
-        <ul class="">
+        <div class="flex flex-row justify-center items-center my-10">
+          <ul class="flex list-none prose dark:prose-dark">
           {{ if .PrevInSection }}
-            <li class="">
-              <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
+          <li class="mb-0 mr-10 p-2 bg-lightButton/60 hover:bg-lightButton/20  dark:bg-darkButton/60 dark:hover:bg-darkButton/40 transition-colors duration-300 rounded-lg">
+            <a class=" text-lightText hover:text-lightText/80 dark:text-darkText" href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
             </li>
           {{ end }}
           {{ if .NextInSection }}
-            <li class="">
-              <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+          <li class="mt-0 ml-10 p-2 bg-lightButton/60 hover:bg-lightButton/20  dark:bg-darkButton/60 dark:hover:bg-darkButton/40 transition-colors duration-300 rounded-lg">
+            <a class=" text-lightText hover:text-lightText/80 dark:text-darkText" href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
             </li>
           {{ end }}
         </ul>

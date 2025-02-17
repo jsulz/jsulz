@@ -4,7 +4,6 @@ author: Jared Sulzdorf
 type: post
 date: 2020-06-05T13:20:53+00:00
 url: /2020/06/05/the-search-for-artificial-intelligence-betwixt-philosophy-and-computer-science/
-bigimg: [{ src: "/img/owl.png", desc: "Niklas Bostram: Superintelligence"}]
 categories:
   - Artificial Intelligence
 
