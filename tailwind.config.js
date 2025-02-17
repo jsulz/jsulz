@@ -36,6 +36,7 @@ module.exports = {
           css: {
 			maxWidth: '75ch',
 			'--tw-prose-bullets': theme('colors.lightText'),
+			'--tw-prose-counters': theme('colors.lightText'),
             color: theme('colors.lightText'),
             h1: { color: theme('colors.lightText') },
             h2: { color: theme('colors.lightText') },
@@ -106,12 +107,20 @@ module.exports = {
         },
         dark: {
           css: {
-			'--tw-shadow-color': 'red',
+			'--tw-prose-bullets': theme('colors.darkText'),
+			'--tw-prose-counters': theme('colors.darkText'),
             color: theme('colors.darkText'),
             h1: { color: theme('colors.darkText') },
             h2: { color: theme('colors.darkText') },
             h3: { color: theme('colors.darkText') },
             p: { color: theme('colors.darkText') },
+			strong: { color: theme('colors.darkText') },
+            code: {
+				backgroundColor: theme('colors.darkAccentOrange'),
+			},
+            'pre code': {
+				backgroundColor: 'transparent',
+			  },
             a: {
               color: theme('colors.darkLink'),
               textDecoration: 'underline',

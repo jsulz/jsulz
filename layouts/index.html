@@ -10,7 +10,7 @@
   <div class="flex flex-row justify-center items-center my-10">
     <ul class="flex list-none prose dark:prose-dark">
       {{ if .Paginator.HasPrev }}
-        <li class="mb-0 mr-10 p-2 bg-lightButton/60 hover:bg-lightButton/20  dark:bg-darkButton/60 dark:hover:bg-darkButton/40 transition-colors duration-300 rounded-lg last:ml-0">
+        <li class="mb-0 mr-10 p-2 bg-lightButton/60 hover:bg-lightButton/20  dark:bg-darkButton/60 dark:hover:bg-darkButton/40 transition-colors duration-300 rounded-lg last:mr-0">
           <a class=" text-lightText hover:text-lightText/80 dark:text-darkText" href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
         </li>
       {{ end }}

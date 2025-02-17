@@ -18,17 +18,16 @@ There is clearly a steep learning curve and I&#8217;m at the point where that cu
 
 In a late night search, I stumbled across the following set of [Computerphile][4] interviews with Matt Phillips, a video game programmer from the United Kingdom (Manchester, to be exact), who is working on building a SEGA Genesis/Mega Drive game ([Tanglewood][5]) in assembly:
 
-
-
-
-
-
+{{< youtube Kalmryn9_sE >}}
 
 I would strongly suggest watching these videos in this order as they lead very well from one to the next and you can marvel at the effort it takes to string together a game in such a low-level language.
 
 It was especially interesting to see how the language on the boards Matt is working with differed from what I&#8217;m currently learning. It&#8217;s one thing to hear about how machine-specific assembly is and quite another to see the different syntax, memory registers, and peripherals throughout the videos.
 
 Check out the game trailer here:
+
+{{< youtube oz9JEQCX8Sc >}}
+
 
  [1]: http://www.espn.com/college-sports/story/_/id/23939863/oregon-state-beavers-beat-arkansas-razorbacks-win-college-world-series
  [2]: https://ecampus.oregonstate.edu/soc/ecatalog/ecoursedetail.htm?subject=CS&coursenumber=271&termcode=201301
