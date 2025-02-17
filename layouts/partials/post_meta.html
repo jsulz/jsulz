@@ -1,17 +1,19 @@
-<span class="">
+<span class="flex md:flex-row flex-col  items-center justify-center text-lightAccentRed dark:text-darkAccentOrange text-sm">
   {{ $lastmodstr := .Site.Params.dateformat | .Lastmod.Format }}
   {{ $datestr := .Site.Params.dateformat | .Date.Format }}
-  <i class="fas fa-calendar"></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}
+  <div class="md:border-r-2 border-lightAccentRed dark:border-darkAccentOrange md:pr-2"><i class="fas fa-calendar"></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}</div>
   {{ if ne $datestr $lastmodstr }}
     &nbsp;{{ $lastmodstr | i18n "lastModified"  }}
   {{ end }}
-    &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;{{ .Site.Author.name | safeHTML }}
+  <div class="md:border-r-2 border-lightAccentRed dark:border-darkAccentOrange md:pr-2"><i class="fas fa-user"></i>&nbsp;{{ .Site.Author.name | safeHTML }}</div>
     {{ $taxonomy := "categories" }}
+    <div class="md:pl-2">
     {{ with .GetTerms $taxonomy }}
-        &nbsp;|&nbsp; {{ (site.GetPage $taxonomy).LinkTitle }}:
+        {{ (site.GetPage $taxonomy).LinkTitle }}:
         {{ range $k, $_ := . -}}
           {{ if $k }}, {{ end }}
           <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{- end }}
     {{ end }}  
+  </div>
 </span>

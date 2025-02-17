@@ -18,7 +18,7 @@
             <div>
               <h1 class="text-center text-6xl md:text-8xl font-heading font-extrabold">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
               {{ if ne .Type "post" }}
-                <hr class="mx-24 md:mx-20 h-1 bg-lightAccentRed dark:bg-darkAccentOrange">
+                <hr class="w-24 md:w-32 h-1 mx-auto border-0 rounded-sm text-lightAccentRed dark:text-darkAccentOrange bg-lightAccentRed dark:bg-darkAccentOrange">
               {{ end }}
               {{ if $subtitle }}
                 {{ if eq .Type "page" }}

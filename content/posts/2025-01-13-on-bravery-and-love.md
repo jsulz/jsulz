@@ -13,6 +13,8 @@ On December 9th, 2024 at 10:33pm my wife and I welcomed a new member of our fami
 
 A month later, the screams have more space between them, although her growing stamina and strength have conspired to make them louder and longer.
 
+<!--more-->
+
 I thought my experience with priority realignment was battle tested and hardened. My career has been in tech startups. Pivots happen. Priorities change. When they do you evaluate the cause and effect and develop a new strategy. It requires mental flexibility and emotional control.
 
 Having a child put this experience to shame. Never before has a singular event reshaped my thinking so dramatically. It's made me [pause and ponder](https://store.dftba.com/products/pause-and-ponder-shirt) about what I will bring to the table to help provide an environment that allows this new little human to flourish.

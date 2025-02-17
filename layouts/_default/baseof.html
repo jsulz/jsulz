@@ -3,10 +3,12 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body class="bg-lightBg dark:bg-darkBg transition-colors">
+  <body class="bg-lightBg dark:bg-darkBg transition-colors text-lightText dark:text-darkText">
     {{ partial "nav.html" . }}
-    {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
-    {{ block "main" . }}{{ end }}
+    <div class="mx-8">
+      {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+      {{ block "main" . }}{{ end }}
+    </div>
     {{ partial "footer.html" . }}
     {{ block "footer" . }}{{ end }}
     <script>

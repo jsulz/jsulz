@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <div class="">
+  <div class="flex flex-col items-center justify-center">
     {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
     {{ range $pag.Pages }}
       {{ partial "post_preview" . }}
@@ -7,7 +7,7 @@
   </div>
 
   {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-    <ul class="">
+    <ul class="prose dark:prose-dark">
       {{ if .Paginator.HasPrev }}
         <li class="">
           <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
