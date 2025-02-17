@@ -6,7 +6,7 @@ date: 2025-01-23T14:20:30-07:00
 url: 2025-01-23-on-bravery-and-love
 draft: false
 categories:
-  - "What's This!?"
+  - "Life"
 ---
 
 On December 9th, 2024 at 10:33pm my wife and I welcomed a new member of our family. Daphne Sulzdorf Kirsch came into this world announcing her presence with a scream.

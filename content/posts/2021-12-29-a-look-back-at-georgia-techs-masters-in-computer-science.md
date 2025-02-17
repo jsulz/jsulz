@@ -6,7 +6,6 @@ date: 2021-12-29T17:30:51+00:00
 url: /2021/12/29/a-look-back-at-georgia-techs-masters-in-computer-science/
 bigimg: [{ src: "/img/snowy-woodinville.jpg", desc: "Snowy Woodinville" }]
 categories:
-  - "What's This!?"
   - Georgia Tech OMSCS
 ---
 

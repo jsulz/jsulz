@@ -1,7 +1,7 @@
 const typography = require('@tailwindcss/typography');
 
 module.exports = {
-  darkMode: 'media', // Correct setting
+  darkMode: 'media', 
   content: ['./hugo_stats.json'],
   plugins: [typography],
   theme: {
@@ -34,6 +34,8 @@ module.exports = {
       typography: (theme) => ({
         DEFAULT: {
           css: {
+			maxWidth: '75ch',
+			'--tw-prose-bullets': theme('colors.lightText'),
             color: theme('colors.lightText'),
             h1: { color: theme('colors.lightText') },
             h2: { color: theme('colors.lightText') },
@@ -57,9 +59,11 @@ module.exports = {
               paddingLeft: '1rem',
             },
             code: {
-              backgroundColor: theme('colors.lightButton') + 'cc',
+              backgroundColor: 'rgba(224, 90, 54, .3)',
               padding: '0.125rem 0.25rem',
               borderRadius: '0.25rem',
+			  whiteSpace: 'pre-wrap',
+			  wordBreak: 'break-all',
               '&::before': {
                 content: '""',
               },
@@ -89,7 +93,6 @@ module.exports = {
 			  },
             },
             blockquote: {
-              // Changed from darkAccent1 to darkAccentGreen (or choose another)
               borderLeftColor: theme('colors.darkAccentOrange'),
             },
           },

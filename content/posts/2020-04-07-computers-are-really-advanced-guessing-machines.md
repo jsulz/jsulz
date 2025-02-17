@@ -7,7 +7,6 @@ url: /2020/04/07/computers-are-really-advanced-guessing-machines/
 categories:
   - Artificial Intelligence
   - Georgia Tech OMSCS
-  - "Robotics: AI Techniques"
 ---
 
 One of my favorite (personal) sayings about computers is that they are highly advanced guessing machines. You can see this play out practically with things like branch prediction, where a processor must guess the path of a logical branch based on the history of that branch. This heuristic is analogous to how many humans guess; we use history as a predictor for future events. While [HPCA][1] has many similar techniques, this scenario is even more common in the other [Georgia Tech][2] course that I&#8217;m taking this semester, Robotics: AI Techniques.

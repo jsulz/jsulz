@@ -5,7 +5,9 @@ title: "Improving this Feisty Little Blog's Lighthouse Score"
 date: 2024-05-08T10:04:38-07:00
 url: lighthouse-netlify-evaluation
 draft: false
-categories: ""
+categories:
+  - "Hugo"
+  - "Netlify"
 ---
 The short version of this article goes something like: 
 > Improve your Lighthouse score with [this one simple trick](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#defer)!
