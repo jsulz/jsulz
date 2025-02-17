@@ -72,10 +72,36 @@ module.exports = {
               backgroundColor: 'transparent',
             },
             'pre': {
-              backgroundColor: theme('colors.lightAccentYellow'),
               padding: '1rem',
               borderRadius: '0.5rem',
             },
+			'figcaption p': {
+				marginTop: '0.5rem',
+				marginBottom: '0.5rem',
+				textAlign: 'center',
+			},
+            table: {
+				width: '100%',
+				marginTop: '1rem',
+				marginBottom: '1rem',
+				borderCollapse: 'collapse',
+				fontSize: '0.9rem',
+			  },
+			  thead: {
+				borderBottomWidth: '2px',
+				borderColor: theme('colors.lightAccentRed'),
+				backgroundColor: theme('colors.lightBg'),
+			  },
+			  'tbody tr': {
+				borderBottomWidth: '1px',
+				borderColor: theme('colors.lightAccentYellow'),
+			  },
+			  'th, td': {
+				padding: '0.5rem 1rem',
+			  },
+			  'tbody tr:hover': {
+				backgroundColor: theme('colors.lightAccentGreen') + '33', 
+			  },
           },
         },
         dark: {
@@ -95,6 +121,16 @@ module.exports = {
             blockquote: {
               borderLeftColor: theme('colors.darkAccentOrange'),
             },
+            thead: {
+				borderColor: theme('colors.darkAccentOrange'),
+				backgroundColor: theme('colors.darkBg'),
+			  },
+			  'tbody tr': {
+				borderColor: theme('colors.darkAccentYellow'),
+			  },
+			  'tbody tr:hover': {
+				backgroundColor: theme('colors.darkAccentGreen') + '33',
+			  },
           },
         },
       }),
