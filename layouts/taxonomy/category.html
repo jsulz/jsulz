@@ -11,7 +11,11 @@
         <div class="">
           {{ $pag := .Paginate (.Data.Pages) }}
           {{ range $pag.Pages }}
+            {{ if eq .Type "link"}}
+            {{ partial "link_preview" . }}
+          {{ else }}
             {{ partial "post_preview" . }}
+          {{ end }}
           {{ end }}
         </div>
 

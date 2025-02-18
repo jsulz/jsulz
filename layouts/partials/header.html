@@ -16,11 +16,11 @@
         <div>
           <div>
             <div>
-              {{ if ne .Type "post" }}
+              {{ if and (ne .Type "post") (ne .Type "link") }}
                 <h1 class="text-center text-6xl md:text-8xl font-heading font-extrabold">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
                 <hr class="w-24 md:w-32 h-1 mx-auto border-0 rounded-sm text-lightAccentRed dark:text-darkAccentOrange bg-lightAccentRed dark:bg-darkAccentOrange">
               {{ end }}
-              {{ if eq .Type "post" }}
+              {{ if or (eq .Type "post") (eq .Type "link") }}
               <h1 class="text-center text-4xl md:text-6xl font-heading font-extrabold max-w-screen-xl">{{ with $title }}{{.}}{{ else }}{{ end }}</h1>
               {{ end }}
               {{ if $subtitle }}
@@ -30,7 +30,7 @@
                   <h2 class="font-heading">{{ $subtitle }}</h2>
                 {{ end }}
               {{ end }}
-              {{ if eq .Type "post" }}
+              {{ if or (eq .Type "post") (eq .Type "link") }}
                 {{ partial "post_meta.html" . }}
               {{ end }}
             </div>

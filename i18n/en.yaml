@@ -5,6 +5,8 @@
   translation: "Jan 2, 2006 15:04:05"
 - id: postedOnDate
   translation: "Posted on {{ . }}"
+- id: foundOnDate
+  translation: "Found on {{ . }}"
 - id: lastModified
   translation: "(Last modified on {{ . }})"
 - id: translationsLabel

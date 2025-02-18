@@ -12,6 +12,15 @@
             {{ end }}
           </div>
         {{ end }}
+        {{ if eq .Type "link" }}
+          {{ $datestr := .Site.Params.dateformat | .Date.Format }}
+          <div class="flex text-xs">
+            {{ $datestr | i18n "foundOnDate"}}&nbsp;
+            {{ if .Params.via }}
+            <a href="{{ .Params.via }}">(via {{ .Params.prettyvia }})</a>
+             {{ end }}
+          </div>
+          {{ end }}
         </article>
         {{ if ne .Type "page" }}
         <div class="flex flex-row justify-center items-center my-10">
