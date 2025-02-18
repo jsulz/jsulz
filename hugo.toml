@@ -7,7 +7,7 @@ contentDir = "content"
 
 [Params]
 subtitle = "Fueled by coffee, code, and spreadsheets"
-mainSections = ["post", "posts"]
+mainSections = ["post", "posts", "link"]
 dateFormat = "January 2, 2006"
 rss = true
 useHLJS = true

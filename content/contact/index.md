@@ -4,11 +4,6 @@ author: jared
 type: page
 url: /contact/
 date: 2011-06-23T22:38:52+00:00
-lxb_af-post_meta-admin_post_thumbnail_html-position:
-  - lxb_af-grid-align-none
-lxb_af-post_meta-lxb_af_page_template-layout:
-  - lxb_af-default
-
 ---
 Hi!
 
