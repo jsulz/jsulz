@@ -5,7 +5,7 @@
   </head>
   <body class="bg-lightBg dark:bg-darkBg transition-colors text-lightText dark:text-darkText">
     {{ partial "nav.html" . }}
-    <div class="mx-4">
+    <div class="mx-0 md:mx-4">
       {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
       {{ block "main" . }}{{ end }}
     </div>
