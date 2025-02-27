@@ -1,4 +1,4 @@
-# jsulz
+# j_sulz
 
 This is [my personal blog](https://www.jsulz.com/)!
 
