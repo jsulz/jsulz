@@ -17,6 +17,8 @@ I've been re-reading it; trying to distill the core elements that capture my att
 
 > The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin. 
 
+<!--more-->
+
 Put differently, computers do not store, retrieve, or execute methods on information in the same way that humans do. They are at their best when we leverage where they, and not human intellect, excel. 
 
 > Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation.
