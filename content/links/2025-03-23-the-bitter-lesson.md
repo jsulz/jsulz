@@ -1,5 +1,5 @@
 ---
-title:  
+title: The Bitter Lesson
 author: jared
 type: link
 date: 2025-03-23T12:53:11-07:00
