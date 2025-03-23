@@ -5,10 +5,11 @@
                     {{ .Title }}
                 </h2>
             </a>
-            <h2 class="font-heading text-2xl mt-2 md:mt-4 text-center mb-2">from Andrew Ng</h2>
+            <h2 class="font-heading text-2xl mt-2 md:mt-4 text-center mb-2">from {{ .Params.originauthor }}</h2>
         </div>
     </a>
     <div class="font-body text-sm">
+        {{ $datestr := .Site.Params.dateformat | .Date.Format }}
         {{ if findRE `<!--more-->` .RawContent }}
             {{ .Summary }}
         {{ else }}
@@ -16,11 +17,17 @@
         {{ end }}
         {{ $datestr := .Site.Params.dateformat | .Date.Format }}
         <div class="text-xs flex-column md:flex-row space-x-2">
-            <a href="{{ .Permalink }}">
-                {{ $datestr | i18n "foundOnDate"}} 
+            {{ if findRE `<!--more-->` .RawContent }}
+                <a href="{{ .Permalink }}">
+                    Continue Reading >>
                 </a>
+            {{ else }}
+                <a href="{{ .Permalink }}">
+                    {{ $datestr | i18n "foundOnDate"}} 
+                </a>
+            {{ end }}
             <a href="{{ .Params.originurl }}">
-                <span>Read full article</span>
+                <span>Read the original article</span>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="inline-block w-3 h-3 ml-1 md:ml-0 mb-1 md:mt-1">
                     <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
                     <polyline points="15 3 21 3 21 9"/>
