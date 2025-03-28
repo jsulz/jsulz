@@ -6,7 +6,7 @@ date: 2019-04-15T15:30:28+00:00
 url: /2019/04/15/overcoming-the-trough-of-sorrow/
 categories:
   - LexBlog
-  - Product Mangement
+  - Product Management
 
 ---
 Before I dive in, I should note that this post was written as [LexBlog][1] hits its fifteenth birthday. It&#8217;s been my pleasure to work in the Seattle offices at LexBlog for over 6 years. So much of that pleasure stems from truly enjoying the people that work here and overcoming the challenges we face on a regular basis. Here&#8217;s to another fifteen for a great company of great people.
