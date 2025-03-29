@@ -5,7 +5,7 @@ type: link
 date: 2025-03-27T20:50:22-07:00
 url: 2025/03/28/write-to-improve-your-career
 originauthor: kupajo
-originurl: Write to Improve Your Career
+originurl: https://kupajo.com/write-to-improve-your-career/
 via: https://buttondown.com/hacker-newsletter/archive/hacker-newsletter-738/
 prettyvia: Hacker Newsletter \#738
 categories: 
