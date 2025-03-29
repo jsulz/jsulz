@@ -19,6 +19,8 @@ I write. A lot. If practice made perfect, my writing would be pristine, but it's
 
 Writing is challenging because it's an attempt to cohere the incoherent. You're never sure the words are good enough. Does it convey the point you're trying to make? Is it grounded in truth?
 
+<!--more-->
+
 > Writing is far from an isolated skill. Rather, it’s a non-linear process of gathering, curating, organizing, creating, and refining ideas and information. Like a factory in which the assembly line loops back on itself until you decide the newest assembly, that one last iteration, is good enough.
 
 Will it be read? Does it matter if it isn't?
