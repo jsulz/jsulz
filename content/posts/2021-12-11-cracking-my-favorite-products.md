@@ -5,7 +5,7 @@ type: post
 date: 2021-12-12T02:01:36+00:00
 url: /2021/12/11/cracking-my-favorite-products/
 categories:
-  - Product Mangement
+  - Product Management
 
 ---
 My time in school has come to a close. It is bittersweet in that my love of learning seemingly knows no bounds. I could spend years exploring more nooks and crannies in computer science, but the time has come to say goodbye.

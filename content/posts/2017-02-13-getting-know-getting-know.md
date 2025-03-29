@@ -6,7 +6,7 @@ date: 2017-02-13T22:28:36+00:00
 url: /2017/02/13/getting-know-getting-know/
 categories:
   - LexBlog
-  - Product Mangement
+  - Product Management
 
 ---
 Every Product Manager that I&#8217;ve had the opportunity to speak with, listen to, or read about makes one thing abundantly clear: Knowing your users is your job. Unfortunately, that&#8217;s easier said than done. If you take a moment to peruse career pages or job boards with Product Management positions, you&#8217;ll notice that each listing notes an ability to simultaneously be an Excel/SQL/database master _and_ product expert. The nature of product management requires you to live, breathe, and eat the customer&#8217;s experience while understanding why their experience is the way it is.
