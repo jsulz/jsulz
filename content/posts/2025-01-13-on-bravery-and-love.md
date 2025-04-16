@@ -3,7 +3,7 @@ author: Jared Sulzdorf
 type: post
 title: "On Bravery, Love, and the Good Life"
 date: 2025-01-23T14:20:30-07:00
-url: 2025-01-23-on-bravery-and-love
+url: 2025/01/23/on-bravery-and-love
 draft: false
 categories:
   - "Life"

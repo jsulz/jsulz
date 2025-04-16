@@ -3,7 +3,7 @@ author: Jared Sulzdorf
 type: post
 title: "Improving this Feisty Little Blog's Lighthouse Score"
 date: 2024-05-08T10:04:38-07:00
-url: lighthouse-netlify-evaluation
+url: 2024/05/08/lighthouse-netlify-evaluation
 draft: false
 categories:
   - "Hugo"

@@ -3,7 +3,7 @@ author: Jared Sulzdorf
 type: post
 title: "My Take on 'Good Product Manager, Bad Product Manager'"
 date: 2024-05-07T10:14:16-07:00
-url: 2024-05-07-my-take-on-good-pm-bad-pm
+url: 2024/05/07/my-take-on-good-pm-bad-pm
 draft: false
 categories: "Product Management"
 ---

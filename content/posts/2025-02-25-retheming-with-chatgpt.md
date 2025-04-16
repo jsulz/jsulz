@@ -3,7 +3,7 @@ author: Jared Sulzdorf
 type: post
 title: 'Retheming With ChatGPT'
 date: 2025-02-25T05:08:53-08:00
-url: 2025-02-25-retheming-with-chatgpt
+url: 2025/02/25/retheming-with-chatgpt
 draft: false
 categories:
   - "Artificial Intelligence"
