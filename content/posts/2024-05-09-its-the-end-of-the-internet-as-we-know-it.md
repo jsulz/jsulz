@@ -3,7 +3,7 @@ author: Jared Sulzdorf
 type: post
 title: "It's Never Been Easier to Build Online, It's Never Been Harder to Find It"
 date: 2024-05-09T08:41:51-07:00
-url: 2024-05-09-its-never-been-easier-to-build-never-been-harder-to-find
+url: 2024/05/09/its-never-been-easier-to-build-never-been-harder-to-find
 draft: false
 categories: "What's this?!"
 ---
