@@ -1,9 +1,9 @@
 ---
 author: Jared Sulzdorf
 type: post
-title: 'Six Months a Father'
+title: 'Six Months as a Dad (Alt Title: What is Time?)'
 date: 2025-06-15T19:48:23-07:00
-url: 2025/06/19/six-months-a-father
+url: 2025/06/19/six-months-as-a-dad
 draft: false
 categories: 
   - "Life"
