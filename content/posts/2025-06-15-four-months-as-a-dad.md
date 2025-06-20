@@ -1,30 +1,36 @@
 ---
 author: Jared Sulzdorf
 type: post
-title: 'Four Months as a Dad'
-date: 2025-04-15T19:48:23-07:00
-url: 2025/04/15/four-months-as-a-dad
+title: 'Six Months as a Dad'
+date: 2025-06-15T19:48:23-07:00
+url: 2025/06/19/six-months-as-a-dad
 draft: false
 categories: 
   - "Life"
 ---
 
-* My mother visited this past week
-* My wife went back to work from her maternity leave this week
-* Her schedule is week on, week off, and we need to cover three working weeks before we send Daphne to daycare. 
-* To bridge the gap, I'm taking two of those weeks off from work while my mother-in-law takes the third. 
-* I took this first week; the first time that I've spent so much time with my daughter since returning back to work
-* As a bonus, my mother came out from Lansing, MI 
-* Seeing my mother with Daphne put them both in a new light. 
-* In more ways than one, any light is a new light for Daphne, but I thought I'd seen my mother in just about every light there was. 
-* Turns out that she has a different gear. 
-* It reminded me of the many different gears I've found in the last four months. 
-* This has been the most difficult time in my life, hands down. 
-* Not the most emotionally challenging or physically difficult, but the most cumulatively challenging and humbling. 
-* Every time my capacity feels tapped, there's a way to squeeze out just a bit more, push a bit harder, and find a way to forge ahead. 
-* My dog, Moraine, may have some qualms with that characterization. If I have so much capacity, then why have my miles on the road dropped off precipitously?
-* Well, dear dog of mine, it's less about doing eveyrhing that I was doing before, and more about doing less while doing more. 
-* In the past four months, I've stopped following current events, sports, or binge watching a TV show, going on two-hour long weekend runs, and traded those luxuries for this new thing in my life - a human with a smile that lights up my house. 
-* Hearing the beginnings of a laugh and a series of goos and gahs that hint at the sound of her voice. 
-* This is what fills up my days. 
-* When she goes to sleep, I push on, trying to keep my mind sharp and engaged so that I can always help support this growing family of mine. 
+This post was initially titled, "Four Months as a Dad", which should tell you everything you need to know about how being a dad is going for me.
+
+A few years ago I had a passing interest in how memory works. I was juggling new programming languages, all the maths, and cramming for exams. Any approach to increase my context window by a few more tokens was greatly appreciated. In my search, I read [Moonwalking with Einstein](https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein) where Joshua Foer posits this concept akin to [memory density](https://time.com/archive/6911440/book-excerpt-joshua-foers-moonwalking-with-einstein/).
+
+The idea being in your youth, [the days are just packed](https://www.goodreads.com/book/show/24818.The_Days_Are_Just_Packed) with newness. Time seems to slow; you are wading through the richness of life (and with a baby, it's very messy richness). As you age, you get routines. You see the same day pass you by without giving it any pause. You speed through life; time slipping through your fingers.
+
+<!--more-->
+
+> Monotony collapses time; novelty unfolds it. You can exercise daily and eat healthily and live a long life, while experiencing a short one. ..... Creating new memories stretches out psychological time, and lengthens our perception of our lives.
+
+Having a baby drops the speed back down to a crawl. A week is a month, a month is a year. That day I skipped my morning run? Turns out I haven't been running for weeks. 
+
+For most of my life, I've had a tendency to lose track of time. Spending so long on repeat that there's no telling when you started or when you plan on ending. That thing you think happened two weeks ago was closer to four months. 
+
+When I went back, the first thing I would do after each day was take Daphne on a cold rainy walk. Her in our Baby Borne, me in a rain jacket carrying an umbrella for the first time in my life listening to an audio book. Now on our walks I talk to her about those books. She may be a big girl, but she still can't talk and so is a captive audience for a bit longer.
+
+It's surreal to transition from those months. Recalling the nights sleeping on the floor in her nursery, trying to claw back some sense of normalacy in our lives by moving her from the side of our bed into her own room. It's even more surreal to realize that we are still years away from a real conversation with her her. If six months feels like six years, what does three years look like?
+
+In these past six months, I've stopped the daily doom-scrolling of current events. No more regular trips to ESPN or The Ringer. The weekends where I would binge watch a TV show or go on two-hour long runs are gone. There's just no time for them.
+
+I miss some of those things (mostly the runs), but all those moments were already slipping through my fingers. They were thin, watery moments. The last six months are awash with memories I hope to hold on to for the rest of my life. They are also a frenzy of activity. 
+
+I have this weird sense of feeling more productive than any other moment in my life while simultaneously drowning in things to do that will never get done. Some days I feel wired from the pace of activity, enjoying the frenetic energy of it all. Other days I'm strung out, wondering if it's normal to fall asleep at 8pm. 
+
+This is what raising a child has felt like. A combination of surreal, beautiful, and messy. And the tiny little human responsible for it all is now six months old. She goes to daycare 4 days a week, began trying solids, and got her first cold (which she promptly gave to my wife and I). As a certifiable "big girl," she's seconds away from critiquing my next joke. I want to make those seconds feel like a lifetime. 
