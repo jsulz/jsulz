@@ -2,11 +2,7 @@
   {{ $lastmodstr := .Site.Params.dateformat | .Lastmod.Format }}
   {{ $datestr := .Site.Params.dateformat | .Date.Format }}
   {{ if eq .Type "post" }}
-  <div class="md:border-r-2 border-lightAccentRed dark:border-darkAccentOrange md:pr-2"><i class="fas fa-calendar"></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}</div>
-  {{ if ne $datestr $lastmodstr }}
-    &nbsp;{{ $lastmodstr | i18n "lastModified"  }}
-  {{ end }}
-  <div class="md:border-r-2 border-lightAccentRed dark:border-darkAccentOrange md:pr-2"><i class="fas fa-user"></i>&nbsp;{{ .Site.Author.name | safeHTML }}</div>
+  <div class="md:pr-2">&nbsp;{{ $datestr | i18n "postedOnDate"}}</div> //
   {{ end }}  
   {{ $taxonomy := "categories" }}
     <div class="md:pl-2">
